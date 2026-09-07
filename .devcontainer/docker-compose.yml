@@ -1,0 +1,20 @@
+services:
+  app:
+    image: mcr.microsoft.com/devcontainers/python:3.12
+    volumes:
+        - ../..:/workspaces:cached
+    command: sleep infinity
+    rebuinetwork_mode: service:db
+
+  db:
+    image: pgvector/pgvector:pg17
+    restart: unless-stopped
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: achievements
+
+  volumes:
+    postgres-data:

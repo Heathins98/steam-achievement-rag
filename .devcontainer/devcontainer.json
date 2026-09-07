@@ -1,0 +1,12 @@
+{
+    "name": "steam-achivement-rag",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "app",
+    "workspaceFolder": "/workspaces/agentic-rag-app",
+    "postCreateCommand": "pip install -r requirements.txt",
+    "customizations":{
+        "vscode":{
+            "extensions": ["ms-python.python"]
+        }
+    }
+}
