@@ -1,9 +1,12 @@
 {
-    "name": "steam-achivement-rag",
+    "name": "steam-achievement-rag",
     "dockerComposeFile": "docker-compose.yml",
     "service": "app",
-    "workspaceFolder": "/workspaces/agentic-rag-app",
-    "postCreateCommand": "pip install -r requirements.txt",
+    "workspaceFolder": "/workspaces/steam-achievement-rag",
+    "postCreateCommand": "pip install -r .devcontainer/requirements.txt",
+    "features": {
+        "ghcr.io/robbert229/devcontainer-features/postgresql-client:1": {}
+    },
     "customizations":{
         "vscode":{
             "extensions": ["ms-python.python"]

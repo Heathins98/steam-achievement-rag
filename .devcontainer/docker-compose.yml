@@ -2,9 +2,19 @@ services:
   app:
     image: mcr.microsoft.com/devcontainers/python:3.12
     volumes:
-        - ../..:/workspaces:cached
+        - ..:/workspaces/steam-achievement-rag:cached
     command: sleep infinity
-    rebuinetwork_mode: service:db
+    network_mode: service:db
+    env_file:
+      # repo-root .env, gitignored — copy .env.example to .env and fill in
+      # STEAM_API_KEY before first run. required: false so a fresh clone
+      # without .env yet doesn't fail to start.
+      - path: ../.env
+        required: false
+    environment:
+      # network_mode: service:db means this container shares the db container's
+      # network namespace, so localhost (not "db") is the correct host here.
+      DATABASE_URL: postgresql://postgres:postgres@localhost:5432/achievements
 
   db:
     image: pgvector/pgvector:pg17
@@ -16,5 +26,5 @@ services:
       POSTGRES_PASSWORD: postgres
       POSTGRES_DB: achievements
 
-  volumes:
-    postgres-data:
+volumes:
+  postgres-data:

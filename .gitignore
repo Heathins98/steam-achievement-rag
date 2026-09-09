@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ingest/cache/ holds raw Steam API JSON and is intentionally NOT ignored —
+# it's committed on purpose so the DB is rebuildable without re-hitting the API.
