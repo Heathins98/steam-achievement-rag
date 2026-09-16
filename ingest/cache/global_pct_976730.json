@@ -1,0 +1,2806 @@
+{
+  "achievementpercentages": {
+    "achievements": [
+      {
+        "name": "1_26_YOUR_JOURNEY_BEGINS",
+        "percent": "89.7"
+      },
+      {
+        "name": "1_1_JUST_GETTING_STARTED",
+        "percent": "79.8"
+      },
+      {
+        "name": "22_16_IM_SORRY_DAVE",
+        "percent": "74.2"
+      },
+      {
+        "name": "1_2_BALAHOS_MOST_WANTED",
+        "percent": "71.8"
+      },
+      {
+        "name": "1_15_WHERE_AM_I?",
+        "percent": "61.6"
+      },
+      {
+        "name": "1_3_THE_ONE_PERCENT",
+        "percent": "56.9"
+      },
+      {
+        "name": "19_25_WERE_JUST_GETTING_STARTED",
+        "percent": "56.0"
+      },
+      {
+        "name": "1_4_SPOILSPORT",
+        "percent": "55.8"
+      },
+      {
+        "name": "14_11_JUST_A_TASTE",
+        "percent": "51.6"
+      },
+      {
+        "name": "1_28_PILLAR_OF_AUTUMN",
+        "percent": "50.1"
+      },
+      {
+        "name": "19_27_PROTOCOL_DICTATES_ACTION",
+        "percent": "49.5"
+      },
+      {
+        "name": "1_12_THE_GUARDIANS_ARE_COMING",
+        "percent": "49.3"
+      },
+      {
+        "name": "4_4_MY_BUDDY_CHIPS",
+        "percent": "48.2"
+      },
+      {
+        "name": "1_21_STICK_WITH_IT_A_LITTLE_LONGER",
+        "percent": "46.7"
+      },
+      {
+        "name": "19_28_I_NEED_A_WEAPON",
+        "percent": "44.5"
+      },
+      {
+        "name": "1_29_HALO",
+        "percent": "42.5"
+      },
+      {
+        "name": "22_26_MIND_THE_SKILL_GAP",
+        "percent": "42.2"
+      },
+      {
+        "name": "14_12_ALL_OUT_OF_BUBBLEGUM",
+        "percent": "41.9"
+      },
+      {
+        "name": "4_12_STANDARD_OPERATING_BROCEDURE",
+        "percent": "41.3"
+      },
+      {
+        "name": "1_5_GOING_BANANAS",
+        "percent": "41.0"
+      },
+      {
+        "name": "19_29_TO_WAR",
+        "percent": "40.7"
+      },
+      {
+        "name": "1_13_BITE_THE_HAND",
+        "percent": "39.9"
+      },
+      {
+        "name": "10_11_DELICIOUS_BRAINS",
+        "percent": "38.6"
+      },
+      {
+        "name": "1_30_TRUTH_AND_RECONCILIATION",
+        "percent": "38.3"
+      },
+      {
+        "name": "19_30_YOU_FLEW_PRETTY_GOOD",
+        "percent": "37.7"
+      },
+      {
+        "name": "14_14_GRUNTAGEDDON",
+        "percent": "36.3"
+      },
+      {
+        "name": "19_31_INTO_THE_HOWLING_DARK",
+        "percent": "35.9"
+      },
+      {
+        "name": "1_31_THE_SILENT_CARTOGRAPHER",
+        "percent": "35.5"
+      },
+      {
+        "name": "21_10_FRONT_PAGE_NEWS",
+        "percent": "35.1"
+      },
+      {
+        "name": "10_3_CANT_KEEP_HIM_DOWN",
+        "percent": "34.8"
+      },
+      {
+        "name": "20_0_DUST_AND_ECHOES",
+        "percent": "34.7"
+      },
+      {
+        "name": "7_12_THE_CHIPS_DUBBO?",
+        "percent": "34.5"
+      },
+      {
+        "name": "22_14_WHAT_ABOUT_BOB?",
+        "percent": "34.3"
+      },
+      {
+        "name": "21_2_YOUR_HERESY_WILL_STAY_YOUR_FEET",
+        "percent": "33.7"
+      },
+      {
+        "name": "13_27_GAME_ON",
+        "percent": "33.2"
+      },
+      {
+        "name": "20_1_THIS_IS_NOT_YOUR_GRAVE",
+        "percent": "32.8"
+      },
+      {
+        "name": "4_18_CAIRO_STATION",
+        "percent": "32.4"
+      },
+      {
+        "name": "4_13_BROVERSHIELD",
+        "percent": "32.1"
+      },
+      {
+        "name": "20_2_SEND_ME_OUT__WITH_A_BANG",
+        "percent": "31.9"
+      },
+      {
+        "name": "2_0_ASSAULT_ON_THE_CONTROL_ROOM",
+        "percent": "31.7"
+      },
+      {
+        "name": "13_17_A_PILE_OF_MEDALS",
+        "percent": "31.3"
+      },
+      {
+        "name": "22_27_EASY_TO_OVERLOOK",
+        "percent": "30.7"
+      },
+      {
+        "name": "8_11_LANDFALL",
+        "percent": "30.5"
+      },
+      {
+        "name": "13_10_DIRTY_BIRD",
+        "percent": "30.2"
+      },
+      {
+        "name": "4_19_OUTSKIRTS",
+        "percent": "30.1"
+      },
+      {
+        "name": "2_1_343_GUILTY_SPARK",
+        "percent": "29.7"
+      },
+      {
+        "name": "4_20_METROPOLIS",
+        "percent": "29.1"
+      },
+      {
+        "name": "21_3_I_DIDNT_TRAIN_TO_BE_A_PILOT",
+        "percent": "28.7"
+      },
+      {
+        "name": "20_3_WELCOME_TO_REACH",
+        "percent": "28.6"
+      },
+      {
+        "name": "2_2_THE_LIBRARY",
+        "percent": "28.2"
+      },
+      {
+        "name": "8_12_HOLDOUT",
+        "percent": "28.1"
+      },
+      {
+        "name": "14_13_FOE_HAMMER",
+        "percent": "27.3"
+      },
+      {
+        "name": "4_21_THE_ARBITER",
+        "percent": "27.3"
+      },
+      {
+        "name": "2_29_SACRIFICE",
+        "percent": "27.3"
+      },
+      {
+        "name": "8_13_THE_ROAD",
+        "percent": "26.6"
+      },
+      {
+        "name": "2_3_TWO_BETRAYALS",
+        "percent": "26.3"
+      },
+      {
+        "name": "2_4_KEYES",
+        "percent": "25.7"
+      },
+      {
+        "name": "8_14_ASSAULT",
+        "percent": "25.6"
+      },
+      {
+        "name": "20_4_THE_SOLDIER_WE_NEED_YOU_TO_BE",
+        "percent": "25.5"
+      },
+      {
+        "name": "2_5_THE_MAW",
+        "percent": "25.4"
+      },
+      {
+        "name": "13_18_A_CRATE_OF_MEDALS",
+        "percent": "25.2"
+      },
+      {
+        "name": "4_22_ORACLE",
+        "percent": "25.2"
+      },
+      {
+        "name": "8_15_CLEANSING",
+        "percent": "24.9"
+      },
+      {
+        "name": "10_16_DAWN",
+        "percent": "24.8"
+      },
+      {
+        "name": "4_23_DELTA_HALO",
+        "percent": "24.8"
+      },
+      {
+        "name": "7_30_GO_APE_SHIV",
+        "percent": "24.2"
+      },
+      {
+        "name": "2_30_SPLINTERS",
+        "percent": "24.0"
+      },
+      {
+        "name": "8_16_REFUGE",
+        "percent": "23.7"
+      },
+      {
+        "name": "4_24_REGRET",
+        "percent": "23.4"
+      },
+      {
+        "name": "17_25_JUNIOR_DETECTIVE",
+        "percent": "23.3"
+      },
+      {
+        "name": "10_12_ZOMBIE_REPELLER",
+        "percent": "23.3"
+      },
+      {
+        "name": "19_22_TWO_PLACES_SAME_TIME",
+        "percent": "23.2"
+      },
+      {
+        "name": "1_6_HUNTERS_HUNTED",
+        "percent": "23.2"
+      },
+      {
+        "name": "22_28_NEW_WAYS_TO_SAVE_A_BUCK",
+        "percent": "23.1"
+      },
+      {
+        "name": "14_22_GREENHORN",
+        "percent": "22.9"
+      },
+      {
+        "name": "21_11_THE_HUMBLE_BEGINNINGS_OF_WILJAX_BRANTLEY",
+        "percent": "22.8"
+      },
+      {
+        "name": "4_25_SACRED_ICON",
+        "percent": "22.7"
+      },
+      {
+        "name": "8_17_LAST_STAND",
+        "percent": "22.6"
+      },
+      {
+        "name": "12_12_BRO_HAMMER",
+        "percent": "22.0"
+      },
+      {
+        "name": "8_19_RETURN",
+        "percent": "22.0"
+      },
+      {
+        "name": "8_18_THE_KEY",
+        "percent": "21.8"
+      },
+      {
+        "name": "4_26_QUARANTINE_ZONE",
+        "percent": "21.8"
+      },
+      {
+        "name": "5_15_RIPPLE_FIRE",
+        "percent": "21.6"
+      },
+      {
+        "name": "4_27_GRAVEMIND",
+        "percent": "21.6"
+      },
+      {
+        "name": "1_17_TEMPERED_BLADE",
+        "percent": "21.5"
+      },
+      {
+        "name": "18_0_TAYARI_PLAZA",
+        "percent": "21.3"
+      },
+      {
+        "name": "10_17_REQUIEM",
+        "percent": "21.3"
+      },
+      {
+        "name": "13_19_A_HEAP_OF_MEDALS",
+        "percent": "20.9"
+      },
+      {
+        "name": "4_29_HIGH_CHARITY",
+        "percent": "20.7"
+      },
+      {
+        "name": "4_30_THE_GREAT_JOURNEY",
+        "percent": "20.6"
+      },
+      {
+        "name": "3_21_BIRTH_OF_A_SPARTAN",
+        "percent": "20.4"
+      },
+      {
+        "name": "17_26_INVESTIGATOR",
+        "percent": "20.2"
+      },
+      {
+        "name": "4_28_UPRISING",
+        "percent": "20.2"
+      },
+      {
+        "name": "1_16_I_GOT_THIS",
+        "percent": "20.2"
+      },
+      {
+        "name": "22_24_CONFUSED_CALLOUTS",
+        "percent": "20.0"
+      },
+      {
+        "name": "16_23_LISTENER",
+        "percent": "19.9"
+      },
+      {
+        "name": "18_1_UPLIFT_RESERVE",
+        "percent": "19.6"
+      },
+      {
+        "name": "14_24_TRAINING_WHEELS",
+        "percent": "19.4"
+      },
+      {
+        "name": "7_8_SIX_PEDALS_FOUR_DIRECTIONS",
+        "percent": "19.2"
+      },
+      {
+        "name": "10_18_FORERUNNER",
+        "percent": "19.1"
+      },
+      {
+        "name": "1_9_PEST_CONTROL",
+        "percent": "19.1"
+      },
+      {
+        "name": "19_7_BIP_BAP_BAM",
+        "percent": "18.7"
+      },
+      {
+        "name": "14_16_SCAVENGER_HUNT",
+        "percent": "18.6"
+      },
+      {
+        "name": "2_31_IDLE_HANDS",
+        "percent": "18.2"
+      },
+      {
+        "name": "2_6_DIDNT_LIKE_THIS_SHIP_ANYWAYS",
+        "percent": "18.2"
+      },
+      {
+        "name": "16_24_AN_EAR_FULL",
+        "percent": "18.1"
+      },
+      {
+        "name": "14_15_WERE_IT_SO_EASY",
+        "percent": "18.0"
+      },
+      {
+        "name": "10_19_INFINITY",
+        "percent": "18.0"
+      },
+      {
+        "name": "18_2_KIZINGO_BOULEVARD",
+        "percent": "17.8"
+      },
+      {
+        "name": "17_27_GUMSHOE",
+        "percent": "17.8"
+      },
+      {
+        "name": "22_6_REMEMBER_REACH",
+        "percent": "17.7"
+      },
+      {
+        "name": "14_23_BIG_GREEN_STYLE",
+        "percent": "17.5"
+      },
+      {
+        "name": "13_20_A_FEW_TRINKETS",
+        "percent": "17.5"
+      },
+      {
+        "name": "9_25_PROPHETS_BANE",
+        "percent": "17.2"
+      },
+      {
+        "name": "18_3_ONI_ALPHA_SITE",
+        "percent": "17.1"
+      },
+      {
+        "name": "19_15_DEFERENCE_OF_DARKNESS",
+        "percent": "16.9"
+      },
+      {
+        "name": "17_28_BLOODHOUND",
+        "percent": "16.9"
+      },
+      {
+        "name": "20_28_TVAOAN_TERMINATOR",
+        "percent": "16.6"
+      },
+      {
+        "name": "20_20_MOONS_OUT_GOONS_OUT",
+        "percent": "16.5"
+      },
+      {
+        "name": "18_4_NMPD_HQ",
+        "percent": "16.5"
+      },
+      {
+        "name": "10_20_RECLAIMER",
+        "percent": "16.5"
+      },
+      {
+        "name": "16_25_TUNED_IN",
+        "percent": "16.4"
+      },
+      {
+        "name": "12_5_CLOSE_QUARTERS_COMBAT",
+        "percent": "16.4"
+      },
+      {
+        "name": "17_29_PRIVATE_EYE",
+        "percent": "16.2"
+      },
+      {
+        "name": "10_21_SHUTDOWN",
+        "percent": "16.0"
+      },
+      {
+        "name": "18_5_KIKOWANI_STATION",
+        "percent": "15.9"
+      },
+      {
+        "name": "17_30_SECRET_AGENT",
+        "percent": "15.9"
+      },
+      {
+        "name": "10_22_COMPOSER",
+        "percent": "15.8"
+      },
+      {
+        "name": "18_6_DATA_HIVE",
+        "percent": "15.6"
+      },
+      {
+        "name": "7_29_DEMON",
+        "percent": "15.5"
+      },
+      {
+        "name": "7_3_WARRIOR",
+        "percent": "15.4"
+      },
+      {
+        "name": "18_7_COASTAL_HIGHWAY",
+        "percent": "15.3"
+      },
+      {
+        "name": "10_23_MIDNIGHT",
+        "percent": "15.3"
+      },
+      {
+        "name": "4_2_YOU_ARE_THE_WEAPON",
+        "percent": "14.9"
+      },
+      {
+        "name": "16_26_DO_TELL",
+        "percent": "14.8"
+      },
+      {
+        "name": "13_30_CANT_PUT_IT_DOWN",
+        "percent": "14.5"
+      },
+      {
+        "name": "13_22_OH_THESE_BAUBLES?",
+        "percent": "14.5"
+      },
+      {
+        "name": "6_0_ENCHANTED",
+        "percent": "14.4"
+      },
+      {
+        "name": "17_21_ROOKIE",
+        "percent": "14.3"
+      },
+      {
+        "name": "19_23_XENOPHOBIA",
+        "percent": "14.1"
+      },
+      {
+        "name": "6_3_DELIGHTED",
+        "percent": "14.1"
+      },
+      {
+        "name": "8_6_FLAMING_NINJA_ANNIVERSARY",
+        "percent": "14.0"
+      },
+      {
+        "name": "5_31_FASCINATED",
+        "percent": "14.0"
+      },
+      {
+        "name": "11_4_JUNGLE_WARFARE",
+        "percent": "13.9"
+      },
+      {
+        "name": "14_25_LIBRARIANS_GIFT",
+        "percent": "13.5"
+      },
+      {
+        "name": "5_29_EXAMINER",
+        "percent": "13.5"
+      },
+      {
+        "name": "4_16_A_DAY_TO_REMEMBER",
+        "percent": "13.4"
+      },
+      {
+        "name": "16_27_HEAR_ME_OUT",
+        "percent": "13.3"
+      },
+      {
+        "name": "16_21_NAUGHTY_NAUGHTY",
+        "percent": "13.2"
+      },
+      {
+        "name": "14_17_DANKEY_KANG",
+        "percent": "13.1"
+      },
+      {
+        "name": "4_14_HES_UNSTOPPABLE",
+        "percent": "13.1"
+      },
+      {
+        "name": "22_8_ENEMIES_EVERYWHERE",
+        "percent": "12.9"
+      },
+      {
+        "name": "21_0_WAKE_UP_BUTTERCUP",
+        "percent": "12.9"
+      },
+      {
+        "name": "17_22_URBAN_WARFARE_BADGE",
+        "percent": "12.9"
+      },
+      {
+        "name": "8_24_DAMBUSTER",
+        "percent": "12.9"
+      },
+      {
+        "name": "5_18_BOUNDLESS",
+        "percent": "12.9"
+      },
+      {
+        "name": "5_16_HERESY_WILL_NOT_STAY_MY_FEET",
+        "percent": "12.9"
+      },
+      {
+        "name": "20_5_FOLKS_NEED_HEROES",
+        "percent": "12.8"
+      },
+      {
+        "name": "16_17_WORLD_TRAVELER",
+        "percent": "12.8"
+      },
+      {
+        "name": "11_11_LORD_OF_ADMIRALS",
+        "percent": "12.5"
+      },
+      {
+        "name": "1_8_I_WAS_WONDERING_WHAT_WOULD_BREAK_FIRST",
+        "percent": "12.4"
+      },
+      {
+        "name": "8_7_LEGEND_SLAYER",
+        "percent": "12.2"
+      },
+      {
+        "name": "10_14_THIRD_TIMES_A_CHARM",
+        "percent": "12.1"
+      },
+      {
+        "name": "13_23_CHESTY_PULLER_STARTER_KIT",
+        "percent": "12.0"
+      },
+      {
+        "name": "21_1_TWO_CORPSES_IN_ONE_GRAVE",
+        "percent": "11.9"
+      },
+      {
+        "name": "8_2_WARDEN",
+        "percent": "11.9"
+      },
+      {
+        "name": "16_28_EAVESDROPPING",
+        "percent": "11.8"
+      },
+      {
+        "name": "20_19_STILL_SHARP",
+        "percent": "11.7"
+      },
+      {
+        "name": "11_18_WAKE_UP_JOHN",
+        "percent": "11.7"
+      },
+      {
+        "name": "3_5_KILOTONS_OF_FUN",
+        "percent": "11.7"
+      },
+      {
+        "name": "8_22_HIGHWAY_ROBBERY",
+        "percent": "11.6"
+      },
+      {
+        "name": "8_4_DECORATED_WARRIOR",
+        "percent": "11.6"
+      },
+      {
+        "name": "13_28_BONUS_LEVEL",
+        "percent": "11.4"
+      },
+      {
+        "name": "8_8_BACK_AT_IT",
+        "percent": "11.1"
+      },
+      {
+        "name": "6_5_SCHOLAR",
+        "percent": "11.1"
+      },
+      {
+        "name": "20_24_NINE_LIVES_ARE_A_MYTH",
+        "percent": "10.8"
+      },
+      {
+        "name": "4_11_BEFORE_AND_AFTER",
+        "percent": "10.7"
+      },
+      {
+        "name": "5_30_INSPECTOR",
+        "percent": "10.6"
+      },
+      {
+        "name": "21_5_SWIFT_AND_SHALLOW",
+        "percent": "10.5"
+      },
+      {
+        "name": "20_26_PRECIOUS_CARGO",
+        "percent": "10.4"
+      },
+      {
+        "name": "16_29_AUDITOR",
+        "percent": "10.4"
+      },
+      {
+        "name": "13_24_MEDAL_MASTER_CHIEF",
+        "percent": "10.3"
+      },
+      {
+        "name": "21_15_HEY_YOU_DROPPED_THIS",
+        "percent": "10.2"
+      },
+      {
+        "name": "3_22_BELIEVE_IN_A_HERO",
+        "percent": "10.2"
+      },
+      {
+        "name": "12_13_DIGGING_UP_THE_PAST",
+        "percent": "10.1"
+      },
+      {
+        "name": "5_25_FREQUENT_FLYER_MILES",
+        "percent": "10.1"
+      },
+      {
+        "name": "18_19_SON_OF_A_GUN",
+        "percent": "10.0"
+      },
+      {
+        "name": "9_2_RANGER",
+        "percent": "10.0"
+      },
+      {
+        "name": "20_12_SABRE_METRICS",
+        "percent": "9.9"
+      },
+      {
+        "name": "19_8_PINEAPPLE_EXPRESS",
+        "percent": "9.9"
+      },
+      {
+        "name": "13_25_CONTENDER",
+        "percent": "9.8"
+      },
+      {
+        "name": "18_23_MAGIC_TOUCH",
+        "percent": "9.6"
+      },
+      {
+        "name": "8_1_DOUBLE_DOWN",
+        "percent": "9.6"
+      },
+      {
+        "name": "14_0_UP_ALL_NIGHT",
+        "percent": "9.5"
+      },
+      {
+        "name": "6_1_ENAMORED",
+        "percent": "9.5"
+      },
+      {
+        "name": "4_31_DONT_HANGAR_AROUND",
+        "percent": "9.5"
+      },
+      {
+        "name": "20_22_INSOMNIA",
+        "percent": "9.3"
+      },
+      {
+        "name": "9_3_VANGUARD",
+        "percent": "9.3"
+      },
+      {
+        "name": "5_10_FEELING_CHARITABLE",
+        "percent": "9.3"
+      },
+      {
+        "name": "19_26_NO_PICNIC",
+        "percent": "9.2"
+      },
+      {
+        "name": "9_26_WITH_YOUR_SHIELD_OR_ON_IT",
+        "percent": "9.2"
+      },
+      {
+        "name": "16_30_OVERHEARD",
+        "percent": "9.1"
+      },
+      {
+        "name": "11_7_HEAD_BANGING",
+        "percent": "9.1"
+      },
+      {
+        "name": "8_30_GUERILLA",
+        "percent": "9.1"
+      },
+      {
+        "name": "4_15_THE_GOOD_THE_BAD_AND_THE_DEAD",
+        "percent": "9.0"
+      },
+      {
+        "name": "16_18_JUST_BROWSING",
+        "percent": "8.9"
+      },
+      {
+        "name": "11_13_FLOOD",
+        "percent": "8.7"
+      },
+      {
+        "name": "6_7_OBSESSED",
+        "percent": "8.7"
+      },
+      {
+        "name": "5_28_INQUISITIVE",
+        "percent": "8.7"
+      },
+      {
+        "name": "18_14_OVERTAKEN_BY_EVENTS",
+        "percent": "8.4"
+      },
+      {
+        "name": "15_3_OPERATION_COMPLETION",
+        "percent": "8.3"
+      },
+      {
+        "name": "12_9_BEACHHEAD",
+        "percent": "8.3"
+      },
+      {
+        "name": "11_28_A_LONG_TIME_AGO",
+        "percent": "8.3"
+      },
+      {
+        "name": "12_0_TIGHTEN_UP_THE_GRAPHICS",
+        "percent": "8.2"
+      },
+      {
+        "name": "8_31_CAVALIER",
+        "percent": "8.2"
+      },
+      {
+        "name": "14_26_HERALD_OF_THE_RECLAMATION",
+        "percent": "8.1"
+      },
+      {
+        "name": "14_2_CANT_GET_ENOUGH",
+        "percent": "8.1"
+      },
+      {
+        "name": "14_29_SKULLTAKER_HALO_3_BLIND",
+        "percent": "8.0"
+      },
+      {
+        "name": "11_12_CHARUM_HAKKOR",
+        "percent": "8.0"
+      },
+      {
+        "name": "7_28_SILENT_BUT_DEADLY",
+        "percent": "8.0"
+      },
+      {
+        "name": "20_18_ICE_IN_YOUR_VEINS",
+        "percent": "7.9"
+      },
+      {
+        "name": "16_31_WIRETAPPING",
+        "percent": "7.9"
+      },
+      {
+        "name": "1_11_MEDAL_COMPLETIONIST",
+        "percent": "7.9"
+      },
+      {
+        "name": "10_24_PIECE_OF_CAKE",
+        "percent": "7.8"
+      },
+      {
+        "name": "22_21_GAME_BREAKER",
+        "percent": "7.7"
+      },
+      {
+        "name": "19_13_ONE_WAY_RIDE",
+        "percent": "7.7"
+      },
+      {
+        "name": "3_4_MIND_GAMES",
+        "percent": "7.7"
+      },
+      {
+        "name": "13_5_COUNTER-SNIPED",
+        "percent": "7.6"
+      },
+      {
+        "name": "5_14_OBJECTIVE_SECURED",
+        "percent": "7.6"
+      },
+      {
+        "name": "3_0_HITCHHIKERS_MAY_BE_ESCAPING_CONVICTS",
+        "percent": "7.6"
+      },
+      {
+        "name": "17_23_FIRST_IN_LAST_OUT",
+        "percent": "7.5"
+      },
+      {
+        "name": "14_27_KING_OF_THE_CROWS",
+        "percent": "7.5"
+      },
+      {
+        "name": "9_17_SKULLTAKER_HALO_3_BLACK_EYE",
+        "percent": "7.5"
+      },
+      {
+        "name": "9_0_ASKAR",
+        "percent": "7.5"
+      },
+      {
+        "name": "6_4_KNOWLEDGABLE",
+        "percent": "7.5"
+      },
+      {
+        "name": "3_3_MEMORIES",
+        "percent": "7.5"
+      },
+      {
+        "name": "16_19_GOING_INTERNATIONAL",
+        "percent": "7.3"
+      },
+      {
+        "name": "3_10_SKULLTAKER_HALO_CE_FOREIGN",
+        "percent": "7.2"
+      },
+      {
+        "name": "3_8_SKULLTAKER_HALO_CE_MYTHIC",
+        "percent": "7.2"
+      },
+      {
+        "name": "2_28_ARRIVAL",
+        "percent": "7.2"
+      },
+      {
+        "name": "22_20_RUN_AND_GUNNED",
+        "percent": "7.1"
+      },
+      {
+        "name": "14_4_COMMITTED",
+        "percent": "7.0"
+      },
+      {
+        "name": "2_23_READING_ROOM",
+        "percent": "7.0"
+      },
+      {
+        "name": "2_17_PILLAR_OF_AWESOME",
+        "percent": "7.0"
+      },
+      {
+        "name": "22_19_REQUIESCAT_IN_PACE",
+        "percent": "6.9"
+      },
+      {
+        "name": "1_22_VETERAN",
+        "percent": "6.9"
+      },
+      {
+        "name": "1_10_THANKS_A_KILLION",
+        "percent": "6.9"
+      },
+      {
+        "name": "7_4_HERO",
+        "percent": "6.8"
+      },
+      {
+        "name": "3_11_SKULLTAKER_HALO_CE_FAMINE",
+        "percent": "6.8"
+      },
+      {
+        "name": "20_6_GODS_MUST_BE_STRONG",
+        "percent": "6.7"
+      },
+      {
+        "name": "17_0_MONITORED",
+        "percent": "6.7"
+      },
+      {
+        "name": "9_7_RISING_WATERS",
+        "percent": "6.6"
+      },
+      {
+        "name": "6_6_REVIEWER",
+        "percent": "6.6"
+      },
+      {
+        "name": "9_24_SKULLTAKER_HALO_3_MYTHIC",
+        "percent": "6.4"
+      },
+      {
+        "name": "14_6_BIG_TIME_GAMER",
+        "percent": "6.2"
+      },
+      {
+        "name": "9_1_EXTERMINATOR",
+        "percent": "6.2"
+      },
+      {
+        "name": "18_20_I_LOVE_MY_JOB",
+        "percent": "6.1"
+      },
+      {
+        "name": "9_16_SKULLTAKER_HALO_3_IRON",
+        "percent": "6.1"
+      },
+      {
+        "name": "1_18_FORGED_IN_FIRE",
+        "percent": "6.1"
+      },
+      {
+        "name": "18_18_DONT_STRAIN_YOUR_METAPHORS",
+        "percent": "6.0"
+      },
+      {
+        "name": "11_6_EMERGENCY_SHUTDOWN",
+        "percent": "6.0"
+      },
+      {
+        "name": "15_2_MVP",
+        "percent": "5.9"
+      },
+      {
+        "name": "3_7_SKULLTAKER_HALO_CE_IRON",
+        "percent": "5.9"
+      },
+      {
+        "name": "11_19_I_NEED_A_HERO",
+        "percent": "5.8"
+      },
+      {
+        "name": "17_1_HANG_ONTO_MY_WORDS",
+        "percent": "5.7"
+      },
+      {
+        "name": "14_30_SKULLTAKER_HALO_3_GRUNT_BIRTHDAY_PARTY",
+        "percent": "5.7"
+      },
+      {
+        "name": "11_5_LIBRARIANS_PET",
+        "percent": "5.7"
+      },
+      {
+        "name": "5_19_FISTS_OF_FURY",
+        "percent": "5.7"
+      },
+      {
+        "name": "1_7_CHECKMATE",
+        "percent": "5.7"
+      },
+      {
+        "name": "21_4_TANK_BEATS_EVERYTHING",
+        "percent": "5.6"
+      },
+      {
+        "name": "14_8_LONG_TIME_FAN",
+        "percent": "5.6"
+      },
+      {
+        "name": "19_20_BITS_AND_PIECES",
+        "percent": "5.5"
+      },
+      {
+        "name": "19_10_DOES_WHATEVER_A_SPARTAN_CAN",
+        "percent": "5.5"
+      },
+      {
+        "name": "18_27_DO_YOU_REMEMBER_WHEN_WE_MET",
+        "percent": "5.5"
+      },
+      {
+        "name": "15_28_DOUBLE_TROUBLE",
+        "percent": "5.5"
+      },
+      {
+        "name": "16_20_TASTE_TEST",
+        "percent": "5.4"
+      },
+      {
+        "name": "13_4_COLD_FUSION",
+        "percent": "5.4"
+      },
+      {
+        "name": "11_8_WITCHING_HOUR",
+        "percent": "5.4"
+      },
+      {
+        "name": "19_14_JUST_SAYIN_I_AINT_DEAD",
+        "percent": "5.3"
+      },
+      {
+        "name": "11_10_WAR",
+        "percent": "5.3"
+      },
+      {
+        "name": "9_27_FINISHED_THE_FIGHT",
+        "percent": "5.3"
+      },
+      {
+        "name": "3_23_LIVING_LEGEND",
+        "percent": "5.3"
+      },
+      {
+        "name": "16_15_TOURIST",
+        "percent": "5.1"
+      },
+      {
+        "name": "14_10_THE_LONG_HAUL",
+        "percent": "5.1"
+      },
+      {
+        "name": "20_21_BAKE_THAT_CAKE",
+        "percent": "5.0"
+      },
+      {
+        "name": "18_21_POUR_IT_ON",
+        "percent": "5.0"
+      },
+      {
+        "name": "12_6_THIS_SIDE_UP",
+        "percent": "5.0"
+      },
+      {
+        "name": "17_2_GIVE_HEED",
+        "percent": "4.9"
+      },
+      {
+        "name": "11_1_GUNSLINGER",
+        "percent": "4.8"
+      },
+      {
+        "name": "18_17_SURVEY_SAYS",
+        "percent": "4.7"
+      },
+      {
+        "name": "9_14_THE_COINS_FAULT",
+        "percent": "4.7"
+      },
+      {
+        "name": "8_20_SPEEDY_ONE_ONE_SEVEN",
+        "percent": "4.7"
+      },
+      {
+        "name": "22_10_SKUNKED",
+        "percent": "4.6"
+      },
+      {
+        "name": "9_13_SWORD_AND_SHIELD",
+        "percent": "4.6"
+      },
+      {
+        "name": "5_21_THE_DOCTOR_IS_IN",
+        "percent": "4.6"
+      },
+      {
+        "name": "20_30_KEEP_IT_CLEAN",
+        "percent": "4.5"
+      },
+      {
+        "name": "18_15_DOUBLE_TIME",
+        "percent": "4.5"
+      },
+      {
+        "name": "16_13_SIGHTSEEING",
+        "percent": "4.5"
+      },
+      {
+        "name": "13_29_SHARPSHOOTER",
+        "percent": "4.5"
+      },
+      {
+        "name": "9_22_SKULLTAKER_HALO_3_THUNDERSTORM",
+        "percent": "4.5"
+      },
+      {
+        "name": "9_18_SKULLTAKER_HALO_3_TOUGH_LUCK",
+        "percent": "4.5"
+      },
+      {
+        "name": "3_24_OVERSHIELDS_ARE_FOR_SISSIES",
+        "percent": "4.5"
+      },
+      {
+        "name": "22_9_NEGATIVE_GHOSTRIDER",
+        "percent": "4.4"
+      },
+      {
+        "name": "18_11_A_PLEASANT_TRIP",
+        "percent": "4.4"
+      },
+      {
+        "name": "17_24_MEAN_STREETS_OF_NEW_MOMBASA",
+        "percent": "4.4"
+      },
+      {
+        "name": "16_22_WELLMAYBE_ONE_OR_TWO",
+        "percent": "4.4"
+      },
+      {
+        "name": "5_27_CURIOUS",
+        "percent": "4.4"
+      },
+      {
+        "name": "2_19_YOU_REALLY_CANT_HANDLE_THE_TRUTH",
+        "percent": "4.4"
+      },
+      {
+        "name": "17_3_GET_A_LOAD",
+        "percent": "4.3"
+      },
+      {
+        "name": "9_30_PHANTOM_HUNTER",
+        "percent": "4.3"
+      },
+      {
+        "name": "6_11_SKULLTAKER_HALO_2_BLIND",
+        "percent": "4.3"
+      },
+      {
+        "name": "5_3_REED_THE_STRATEGY",
+        "percent": "4.3"
+      },
+      {
+        "name": "5_1_SPEEDING_TICKET",
+        "percent": "4.3"
+      },
+      {
+        "name": "2_21_VETRO_STRIKE",
+        "percent": "4.3"
+      },
+      {
+        "name": "11_3_SHADOW_OF_SUNDERED_STAR",
+        "percent": "4.2"
+      },
+      {
+        "name": "10_6_SOUNDS_FAMILIAR",
+        "percent": "4.2"
+      },
+      {
+        "name": "8_28_GO_CHIEF_GUN_IT",
+        "percent": "4.2"
+      },
+      {
+        "name": "2_8_YOU_CANT_HANDLE_THE_TRUTH",
+        "percent": "4.2"
+      },
+      {
+        "name": "22_25_COLLECTION_ELIGIBILITY_CONFIRMED",
+        "percent": "4.1"
+      },
+      {
+        "name": "20_15_SPEEDY_DELIVERY",
+        "percent": "4.1"
+      },
+      {
+        "name": "10_4_FLIPYAP",
+        "percent": "4.1"
+      },
+      {
+        "name": "9_20_SKULLTAKER_HALO_3_FOG",
+        "percent": "4.1"
+      },
+      {
+        "name": "10_1_PRIMATE",
+        "percent": "4.0"
+      },
+      {
+        "name": "5_22_OFFICIAL_BUSINESS",
+        "percent": "4.0"
+      },
+      {
+        "name": "19_5_CATCH_EM_NAPPING",
+        "percent": "3.9"
+      },
+      {
+        "name": "12_22_PUT_UP_YOUR_DUKES",
+        "percent": "3.9"
+      },
+      {
+        "name": "9_4_ORPHEUS",
+        "percent": "3.9"
+      },
+      {
+        "name": "21_17_MEETING_OF_THE_(ARTIFICIAL)_MINDS",
+        "percent": "3.8"
+      },
+      {
+        "name": "20_23_PARTING_THE_SEA",
+        "percent": "3.8"
+      },
+      {
+        "name": "17_4_SNOOP_TROOP",
+        "percent": "3.8"
+      },
+      {
+        "name": "12_11_NO-FLY_ZONE",
+        "percent": "3.8"
+      },
+      {
+        "name": "11_2_DARK_FORTRESS",
+        "percent": "3.8"
+      },
+      {
+        "name": "8_0_TOUR_OF_DUTY",
+        "percent": "3.8"
+      },
+      {
+        "name": "6_2_DETERMINED",
+        "percent": "3.7"
+      },
+      {
+        "name": "3_15_SKULLTAKER_HALO_CE_RECESSION",
+        "percent": "3.7"
+      },
+      {
+        "name": "15_29_SPREE_MASTER",
+        "percent": "3.6"
+      },
+      {
+        "name": "11_25_GIVE_HIM_THE_STICK",
+        "percent": "3.6"
+      },
+      {
+        "name": "7_22_NEEDS_MORE_WHAMMY_BAR",
+        "percent": "3.6"
+      },
+      {
+        "name": "7_11_SIEGE_OF_IVORY_TOWER",
+        "percent": "3.6"
+      },
+      {
+        "name": "5_0_ROOFTOP_RUNNER",
+        "percent": "3.6"
+      },
+      {
+        "name": "3_17_SKULLTAKER_HALO_CE_EYE_PATCH",
+        "percent": "3.6"
+      },
+      {
+        "name": "2_18_GIANT_HULA_HOOP",
+        "percent": "3.6"
+      },
+      {
+        "name": "21_23_DIGITAL_DESTINIES",
+        "percent": "3.5"
+      },
+      {
+        "name": "21_16_READ_HALSEYS_JOURNAL",
+        "percent": "3.5"
+      },
+      {
+        "name": "17_5_ALL_EARS",
+        "percent": "3.5"
+      },
+      {
+        "name": "13_26_IN_IT_TO_WIN_IT",
+        "percent": "3.5"
+      },
+      {
+        "name": "11_14_KNIGHTS",
+        "percent": "3.5"
+      },
+      {
+        "name": "9_21_SKULLTAKER_HALO_3_FAMINE",
+        "percent": "3.5"
+      },
+      {
+        "name": "9_10_TIPPING_POINT",
+        "percent": "3.5"
+      },
+      {
+        "name": "5_17_LEAVE_NONE_ALIVE",
+        "percent": "3.5"
+      },
+      {
+        "name": "5_9_NO_MANS_LAND",
+        "percent": "3.5"
+      },
+      {
+        "name": "3_2_QUIS_CUSTODIET_IPSOS_CUSTODES",
+        "percent": "3.5"
+      },
+      {
+        "name": "20_7_A_MONUMENT_TO_ALL_YOUR_SINS",
+        "percent": "3.4"
+      },
+      {
+        "name": "11_20_THE_LEGEND_OF_117",
+        "percent": "3.4"
+      },
+      {
+        "name": "8_5_NINJA_REDUX",
+        "percent": "3.4"
+      },
+      {
+        "name": "3_9_SKULLTAKER_HALO_CE_BOOM",
+        "percent": "3.4"
+      },
+      {
+        "name": "11_15_JUSTICE",
+        "percent": "3.3"
+      },
+      {
+        "name": "8_21_TIME_SHIFT",
+        "percent": "3.3"
+      },
+      {
+        "name": "21_19_MINORITY_REPORT",
+        "percent": "3.2"
+      },
+      {
+        "name": "19_21_WHAT_ABOUT_THOSE_TANKS?",
+        "percent": "3.2"
+      },
+      {
+        "name": "17_6_EAR_BENDER",
+        "percent": "3.2"
+      },
+      {
+        "name": "14_18_WYRMSLAYER",
+        "percent": "3.2"
+      },
+      {
+        "name": "12_20_MASTER_FORGER",
+        "percent": "3.2"
+      },
+      {
+        "name": "9_5_TORCHBEARER",
+        "percent": "3.2"
+      },
+      {
+        "name": "7_5_LEGENDARY_ANNIVERSARY",
+        "percent": "3.2"
+      },
+      {
+        "name": "1_23_WAR_HERO",
+        "percent": "3.2"
+      },
+      {
+        "name": "16_16_WINDOW_SHOPPING",
+        "percent": "3.1"
+      },
+      {
+        "name": "15_4_DEPARTURE",
+        "percent": "3.1"
+      },
+      {
+        "name": "9_8_INUNDATION",
+        "percent": "3.1"
+      },
+      {
+        "name": "20_13_QUICKER_THAN_READING_THE_BOOK",
+        "percent": "3.0"
+      },
+      {
+        "name": "15_25_AIM_FOR_THE_HEAD",
+        "percent": "3.0"
+      },
+      {
+        "name": "9_23_SKULLTAKER_HALO_3_TILT",
+        "percent": "3.0"
+      },
+      {
+        "name": "7_10_COWARDLY_GRUNT",
+        "percent": "3.0"
+      },
+      {
+        "name": "5_24_SCORCHED_EARTH",
+        "percent": "3.0"
+      },
+      {
+        "name": "2_25_HEADSTRONG",
+        "percent": "3.0"
+      },
+      {
+        "name": "20_8_WINTER_URGENCY",
+        "percent": "2.9"
+      },
+      {
+        "name": "17_7_PLUGGED_IN",
+        "percent": "2.9"
+      },
+      {
+        "name": "13_31_BATTLE_HARDENED",
+        "percent": "2.9"
+      },
+      {
+        "name": "11_16_CRYPTUM",
+        "percent": "2.9"
+      },
+      {
+        "name": "9_19_SKULLTAKER_HALO_3_CATCH",
+        "percent": "2.9"
+      },
+      {
+        "name": "9_9_BEFORE_THE_FIRE",
+        "percent": "2.9"
+      },
+      {
+        "name": "2_12_TLDR",
+        "percent": "2.9"
+      },
+      {
+        "name": "22_11_CLEAR_AND_PRESENT_DANGER",
+        "percent": "2.8"
+      },
+      {
+        "name": "21_24_UNRELIABLE_NARRATOR",
+        "percent": "2.8"
+      },
+      {
+        "name": "17_8_ATTENTIVE",
+        "percent": "2.8"
+      },
+      {
+        "name": "14_31_SKULLTAKER_HALO_3_COWBELL",
+        "percent": "2.8"
+      },
+      {
+        "name": "10_9_COOL_STORY_BRO",
+        "percent": "2.8"
+      },
+      {
+        "name": "8_23_LIGHTNING_STRIKE",
+        "percent": "2.8"
+      },
+      {
+        "name": "8_3_BLOWN_OUT_OF_THE_SKY",
+        "percent": "2.8"
+      },
+      {
+        "name": "3_25_WALK_IT_OFF",
+        "percent": "2.8"
+      },
+      {
+        "name": "2_24_IT_WAS_INEVITABLE",
+        "percent": "2.8"
+      },
+      {
+        "name": "2_20_CHARTED",
+        "percent": "2.8"
+      },
+      {
+        "name": "22_4_REACH_HAS_BEEN_GOOD_TO_ME",
+        "percent": "2.7"
+      },
+      {
+        "name": "19_16_THOSE_LEFT_BEHIND",
+        "percent": "2.7"
+      },
+      {
+        "name": "3_1_BEARLY_CONTAINED",
+        "percent": "2.7"
+      },
+      {
+        "name": "2_22_CIRCUIT_BREAKER",
+        "percent": "2.7"
+      },
+      {
+        "name": "21_7_HBORG_SPECIAL",
+        "percent": "2.6"
+      },
+      {
+        "name": "17_9_WATCHFUL",
+        "percent": "2.6"
+      },
+      {
+        "name": "15_0_SKULLTAKER_HALO_3_IWHBYD",
+        "percent": "2.6"
+      },
+      {
+        "name": "12_16_GAME_MASTER",
+        "percent": "2.6"
+      },
+      {
+        "name": "21_18_RAMPANT_SPECULATION",
+        "percent": "2.5"
+      },
+      {
+        "name": "18_31_NAGATO_MAKES_MOVING_EASY",
+        "percent": "2.5"
+      },
+      {
+        "name": "17_10_OBSERVANT",
+        "percent": "2.5"
+      },
+      {
+        "name": "14_21_DOGCATCHER",
+        "percent": "2.5"
+      },
+      {
+        "name": "14_1_THERMOPYLAE",
+        "percent": "2.5"
+      },
+      {
+        "name": "5_2_YOLO_STRATS",
+        "percent": "2.5"
+      },
+      {
+        "name": "3_14_SKULLTAKER_HALO_CE_MALFUNCTION",
+        "percent": "2.5"
+      },
+      {
+        "name": "1_20_I_DABBLE_IN_SLAYING",
+        "percent": "2.5"
+      },
+      {
+        "name": "21_22_TERMINAL_CONDITIONS",
+        "percent": "2.4"
+      },
+      {
+        "name": "20_14_ONE_FOR_THE_RECORD_BOOKS",
+        "percent": "2.4"
+      },
+      {
+        "name": "17_11_SCOUT",
+        "percent": "2.4"
+      },
+      {
+        "name": "13_16_BOOT_CAMP_HERO",
+        "percent": "2.4"
+      },
+      {
+        "name": "9_12_BABBLING_DEAD",
+        "percent": "2.4"
+      },
+      {
+        "name": "9_11_UNTO_DUST",
+        "percent": "2.4"
+      },
+      {
+        "name": "7_26_HE_NEVER_GETS_ME_ANYTHING",
+        "percent": "2.4"
+      },
+      {
+        "name": "7_13_REX_SWORD",
+        "percent": "2.4"
+      },
+      {
+        "name": "22_15_JORGE_CANT_HAVE_ALL_THE_BIG_GUNS",
+        "percent": "2.3"
+      },
+      {
+        "name": "21_27_MEDDLING_AND_MADNESS",
+        "percent": "2.3"
+      },
+      {
+        "name": "21_20_INFO_DUMP",
+        "percent": "2.3"
+      },
+      {
+        "name": "17_12_ADVENTURER",
+        "percent": "2.3"
+      },
+      {
+        "name": "15_21_KNIGHT_IN_WHITE_ASSASSINATION",
+        "percent": "2.3"
+      },
+      {
+        "name": "15_5_ARTIFACT",
+        "percent": "2.3"
+      },
+      {
+        "name": "4_9_GET_ME_OUT_OF_HERE",
+        "percent": "2.3"
+      },
+      {
+        "name": "4_7_THIRSTY_GRUNT",
+        "percent": "2.3"
+      },
+      {
+        "name": "3_19_SKULLTAKER_HALO_CE_GRUNT_BIRTHDAY_PARTY",
+        "percent": "2.3"
+      },
+      {
+        "name": "3_12_SKULLTAKER_HALO_CE_BANDANA",
+        "percent": "2.3"
+      },
+      {
+        "name": "2_26_CONSUMPTION_JUNCTION",
+        "percent": "2.3"
+      },
+      {
+        "name": "20_16_WAIT_HOWD_THE_SHIP_GET_DOWN_HERE?",
+        "percent": "2.2"
+      },
+      {
+        "name": "20_10_NOW_JUST_YOU_GUTA_MINUTE",
+        "percent": "2.2"
+      },
+      {
+        "name": "17_14_CONSIDERATE",
+        "percent": "2.2"
+      },
+      {
+        "name": "17_13_SPOTTER",
+        "percent": "2.2"
+      },
+      {
+        "name": "16_14_CHECKING_OUT_YOUR_OPTIONS",
+        "percent": "2.2"
+      },
+      {
+        "name": "12_8_ALL_ACCORDING_TO_PLAN",
+        "percent": "2.2"
+      },
+      {
+        "name": "7_23_LIKE_PEANUT_BUTTER_AND_CHOCOLATE",
+        "percent": "2.2"
+      },
+      {
+        "name": "3_18_SKULLTAKER_HALO_CE_PINATA",
+        "percent": "2.2"
+      },
+      {
+        "name": "2_14_SCURTY_BUMP",
+        "percent": "2.2"
+      },
+      {
+        "name": "22_18_CAPACIOUS_CARTOGRAPHY",
+        "percent": "2.1"
+      },
+      {
+        "name": "20_11_GENEROUS_TIPPER",
+        "percent": "2.1"
+      },
+      {
+        "name": "19_3_SATURDAY_MORNING_CARTOON",
+        "percent": "2.1"
+      },
+      {
+        "name": "18_30_NEXT",
+        "percent": "2.1"
+      },
+      {
+        "name": "17_16_ARCHIVIST",
+        "percent": "2.1"
+      },
+      {
+        "name": "17_15_ON_YOUR_TOES",
+        "percent": "2.1"
+      },
+      {
+        "name": "14_3_STRIKING_FEAR_IN_THEIR_HEARTS",
+        "percent": "2.1"
+      },
+      {
+        "name": "13_3_COLD_AS_ICE",
+        "percent": "2.1"
+      },
+      {
+        "name": "11_24_EXPLORE_THE_FLOOR",
+        "percent": "2.1"
+      },
+      {
+        "name": "7_9_BETCHA_CANT_STICK_IT",
+        "percent": "2.1"
+      },
+      {
+        "name": "3_13_SKULLTAKER_HALO_CE_FOG",
+        "percent": "2.1"
+      },
+      {
+        "name": "20_25_HOW_DID_I_LOSE_ALL_MY_FINGERS?",
+        "percent": "2.0"
+      },
+      {
+        "name": "19_12_BLAM_SAID_THE_LADY",
+        "percent": "2.0"
+      },
+      {
+        "name": "17_18_CATCHING_ON",
+        "percent": "2.0"
+      },
+      {
+        "name": "17_17_YOUR_ATTENTION_PLEASE",
+        "percent": "2.0"
+      },
+      {
+        "name": "11_27_YOURE_NO_CHIPS",
+        "percent": "2.0"
+      },
+      {
+        "name": "8_27_MAKING_HISTORY",
+        "percent": "2.0"
+      },
+      {
+        "name": "6_22_SKULLTAKER_HALO_2_IRON",
+        "percent": "2.0"
+      },
+      {
+        "name": "5_20_GUIDED_TOUR",
+        "percent": "2.0"
+      },
+      {
+        "name": "5_7_HOT_ZONE",
+        "percent": "2.0"
+      },
+      {
+        "name": "3_31_A_FINE_CHOICE",
+        "percent": "2.0"
+      },
+      {
+        "name": "3_16_SKULLTAKER_HALO_CE_BLACK_EYE",
+        "percent": "2.0"
+      },
+      {
+        "name": "3_6_DEAR_DIARY",
+        "percent": "2.0"
+      },
+      {
+        "name": "20_31_THEYVE_ALWAYS_BEEN_FASTER",
+        "percent": "1.9"
+      },
+      {
+        "name": "19_11_FIREFLY",
+        "percent": "1.9"
+      },
+      {
+        "name": "17_19_WISENING_UP",
+        "percent": "1.9"
+      },
+      {
+        "name": "15_6_CATHERINE",
+        "percent": "1.9"
+      },
+      {
+        "name": "14_5_STEADY_AIM",
+        "percent": "1.9"
+      },
+      {
+        "name": "11_9_YOU_HAD_IT_COMING",
+        "percent": "1.9"
+      },
+      {
+        "name": "10_5_HEADING_TO_HIS_DESTINY",
+        "percent": "1.9"
+      },
+      {
+        "name": "9_15_WHISPERS_ACROSS_THE_GALAXY",
+        "percent": "1.9"
+      },
+      {
+        "name": "5_13_BOMB_SQUAD",
+        "percent": "1.9"
+      },
+      {
+        "name": "5_4_SO_YOU_DONT_WANT_THE_TANK",
+        "percent": "1.9"
+      },
+      {
+        "name": "2_11_LIGHTNING_IN_A_BOTTLE",
+        "percent": "1.9"
+      },
+      {
+        "name": "1_24_LEGEND",
+        "percent": "1.9"
+      },
+      {
+        "name": "21_26_UNSOLVED_MYSTERIES",
+        "percent": "1.8"
+      },
+      {
+        "name": "21_25_WHAT_DOES_IT_ALL_MEAN?",
+        "percent": "1.8"
+      },
+      {
+        "name": "21_8_PLAY_US_A_SAD_SONG_CLAUDE",
+        "percent": "1.8"
+      },
+      {
+        "name": "19_0_ONE_GOT_AWAY",
+        "percent": "1.8"
+      },
+      {
+        "name": "18_12_FIRST_STOP_ANYWHERE_BUT_HERE",
+        "percent": "1.8"
+      },
+      {
+        "name": "17_20_AUDIOPHILE",
+        "percent": "1.8"
+      },
+      {
+        "name": "15_26_DIM_MAK",
+        "percent": "1.8"
+      },
+      {
+        "name": "14_28_WITCH_DOCTOR",
+        "percent": "1.8"
+      },
+      {
+        "name": "13_6_TRIPLE_THREAT",
+        "percent": "1.8"
+      },
+      {
+        "name": "11_21_LONE_WOLF_LEGEND",
+        "percent": "1.8"
+      },
+      {
+        "name": "9_6_BETTER_WITH_AGE",
+        "percent": "1.8"
+      },
+      {
+        "name": "7_25_COMMUTER",
+        "percent": "1.8"
+      },
+      {
+        "name": "7_18_E_E_E",
+        "percent": "1.8"
+      },
+      {
+        "name": "5_11_ARE_WE_THERE_YET",
+        "percent": "1.8"
+      },
+      {
+        "name": "4_10_FEET_FIRMLY_PLANTED",
+        "percent": "1.8"
+      },
+      {
+        "name": "4_5_NO_SMOKING",
+        "percent": "1.8"
+      },
+      {
+        "name": "21_14_THIS_IS_NOT_THE_GREATEST_LAB_IN_THE_WORLD",
+        "percent": "1.7"
+      },
+      {
+        "name": "17_31_RECORD_STORE_OWNER",
+        "percent": "1.7"
+      },
+      {
+        "name": "15_7_DIDACTS_HAND",
+        "percent": "1.7"
+      },
+      {
+        "name": "14_7_QUICK_TRIGGER_FINGER",
+        "percent": "1.7"
+      },
+      {
+        "name": "13_21_CHEST_OF_GOLD",
+        "percent": "1.7"
+      },
+      {
+        "name": "10_27_OUROBOROS",
+        "percent": "1.7"
+      },
+      {
+        "name": "9_28_BEGINS_WITH_A_SINGLE_STEP",
+        "percent": "1.7"
+      },
+      {
+        "name": "7_6_SECONDS",
+        "percent": "1.7"
+      },
+      {
+        "name": "7_0_I_LIKE_CRAZY",
+        "percent": "1.7"
+      },
+      {
+        "name": "6_30_DONT_MAKE_A_GIRL_A_PROMISE",
+        "percent": "1.7"
+      },
+      {
+        "name": "6_10_SKULLTAKER_HALO_2_THUNDERSTORM",
+        "percent": "1.7"
+      },
+      {
+        "name": "6_9_SKULLTAKER_HALO_2_THATS_JUSTWRONG",
+        "percent": "1.7"
+      },
+      {
+        "name": "5_23_THE_HYPE_IS_REAL",
+        "percent": "1.7"
+      },
+      {
+        "name": "2_9_HIT_THE_BEACH",
+        "percent": "1.7"
+      },
+      {
+        "name": "22_17_WORKERS_COMPENSATION",
+        "percent": "1.6"
+      },
+      {
+        "name": "22_1_YES_NO_YOU_DECIDE",
+        "percent": "1.6"
+      },
+      {
+        "name": "21_28_THE_ANSWER_IS_SIMPLE",
+        "percent": "1.6"
+      },
+      {
+        "name": "21_21_PAPER_TRAIL",
+        "percent": "1.6"
+      },
+      {
+        "name": "21_9_WERE_GONNA_NEED_A_BIGGER_SHIP",
+        "percent": "1.6"
+      },
+      {
+        "name": "19_9_FOWL_HUNT",
+        "percent": "1.6"
+      },
+      {
+        "name": "18_24_THIS_OLIPHANT_HAS_NO_BRAKES",
+        "percent": "1.6"
+      },
+      {
+        "name": "15_31_PARTY_POOPER",
+        "percent": "1.6"
+      },
+      {
+        "name": "15_1_NO_STONE_UNTURNED",
+        "percent": "1.6"
+      },
+      {
+        "name": "12_15_EMINENT_DOMAIN",
+        "percent": "1.6"
+      },
+      {
+        "name": "10_30_SYMPHONY_OF_PAIN",
+        "percent": "1.6"
+      },
+      {
+        "name": "10_0_DIRGE_OF_MADRIGAL",
+        "percent": "1.6"
+      },
+      {
+        "name": "7_21_GOOOAAAAALLLL",
+        "percent": "1.6"
+      },
+      {
+        "name": "6_25_AND_SO_IT_BEGINS",
+        "percent": "1.6"
+      },
+      {
+        "name": "6_15_SKULLTAKER_HALO_2_FAMINE",
+        "percent": "1.6"
+      },
+      {
+        "name": "6_14_SKULLTAKER_HALO_2_GRUNT_BIRTHDAY_PARTY",
+        "percent": "1.6"
+      },
+      {
+        "name": "6_8_WALKING_ENCYCLOPEDIA",
+        "percent": "1.6"
+      },
+      {
+        "name": "3_20_HEADHUNTER",
+        "percent": "1.6"
+      },
+      {
+        "name": "2_7_FLYOVER_COUNTRY",
+        "percent": "1.6"
+      },
+      {
+        "name": "1_14_MYSTERY_ACHIEVEMENT",
+        "percent": "1.6"
+      },
+      {
+        "name": "22_23_CLASSIC_COMPLETION",
+        "percent": "1.5"
+      },
+      {
+        "name": "22_22_BECAUSE_IT_WASNT_HARD_ENOUGH",
+        "percent": "1.5"
+      },
+      {
+        "name": "22_0_ASSEMBLED_THE_MAJORITY",
+        "percent": "1.5"
+      },
+      {
+        "name": "21_31_SILENT_SHEPHERDS",
+        "percent": "1.5"
+      },
+      {
+        "name": "21_30_CURIOUS_COMPOSITION",
+        "percent": "1.5"
+      },
+      {
+        "name": "21_29_OF_PATIENCE_AND_PARTIALITY",
+        "percent": "1.5"
+      },
+      {
+        "name": "20_9_JUST_LIKE_STORMING_A_CASTLE",
+        "percent": "1.5"
+      },
+      {
+        "name": "18_10_AN_ARTISTS_CANVAS",
+        "percent": "1.5"
+      },
+      {
+        "name": "16_4_NO_PAIN_NO_GAIN",
+        "percent": "1.5"
+      },
+      {
+        "name": "15_8_MEMENTO_MORI",
+        "percent": "1.5"
+      },
+      {
+        "name": "14_9_MULTIPLAYER_CHAMPION",
+        "percent": "1.5"
+      },
+      {
+        "name": "11_26_CHIEF_SMASH",
+        "percent": "1.5"
+      },
+      {
+        "name": "11_17_TERMINUS",
+        "percent": "1.5"
+      },
+      {
+        "name": "10_2_HAPLORRHINI",
+        "percent": "1.5"
+      },
+      {
+        "name": "7_27_SCARAB_LORD",
+        "percent": "1.5"
+      },
+      {
+        "name": "6_27_REGRETTABLE_TURN_OF_EVENTS",
+        "percent": "1.5"
+      },
+      {
+        "name": "6_16_SKULLTAKER_HALO_2_ENVY",
+        "percent": "1.5"
+      },
+      {
+        "name": "6_13_SKULLTAKER_HALO_2_CATCH",
+        "percent": "1.5"
+      },
+      {
+        "name": "5_6_TERMINAL_VELOCITY",
+        "percent": "1.5"
+      },
+      {
+        "name": "3_26_HOW_PEDESTRIAN",
+        "percent": "1.5"
+      },
+      {
+        "name": "20_27_WELL_BE_BACK",
+        "percent": "1.4"
+      },
+      {
+        "name": "18_9_FLOOR_IT",
+        "percent": "1.4"
+      },
+      {
+        "name": "16_11_LONGSHORE_SKULL",
+        "percent": "1.4"
+      },
+      {
+        "name": "16_8_SANDBOX_SKULL",
+        "percent": "1.4"
+      },
+      {
+        "name": "16_7_ORBITAL_SKULL",
+        "percent": "1.4"
+      },
+      {
+        "name": "16_6_ASSEMBLY_SKULL",
+        "percent": "1.4"
+      },
+      {
+        "name": "15_9_SCATTERED",
+        "percent": "1.4"
+      },
+      {
+        "name": "12_28_STAYIN_ALIVE",
+        "percent": "1.4"
+      },
+      {
+        "name": "12_14_MISSING_LINK",
+        "percent": "1.4"
+      },
+      {
+        "name": "12_2_BACK_IN_THE_DAY",
+        "percent": "1.4"
+      },
+      {
+        "name": "11_30_HES_RUNNING_A_MARATHON",
+        "percent": "1.4"
+      },
+      {
+        "name": "10_31_COUNTDOWN",
+        "percent": "1.4"
+      },
+      {
+        "name": "8_25_WAYPOINT",
+        "percent": "1.4"
+      },
+      {
+        "name": "7_16_ANIMAL_HABITAT",
+        "percent": "1.4"
+      },
+      {
+        "name": "6_28_THE_WILL_OF_THE_PROPHETS",
+        "percent": "1.4"
+      },
+      {
+        "name": "6_19_SKULLTAKER_HALO_2_SPUTNIK",
+        "percent": "1.4"
+      },
+      {
+        "name": "6_17_SKULLTAKER_HALO_2_ASSASSINS",
+        "percent": "1.4"
+      },
+      {
+        "name": "4_3_MADRIGAL_DEBUT",
+        "percent": "1.4"
+      },
+      {
+        "name": "2_10_WOULD_ITVE_KILLED_YOU_TO_TAKE_THE_ELEVATOR",
+        "percent": "1.4"
+      },
+      {
+        "name": "22_2_CANONICAL_CONUNDRUM",
+        "percent": "1.3"
+      },
+      {
+        "name": "21_13_FLY_YOU_FOOLS",
+        "percent": "1.3"
+      },
+      {
+        "name": "21_12_DID_YOU_MAJOR_IN_MARINE_BIO?",
+        "percent": "1.3"
+      },
+      {
+        "name": "18_22_SQUID_JACKPOT",
+        "percent": "1.3"
+      },
+      {
+        "name": "18_8_BILL_PAST_DUE",
+        "percent": "1.3"
+      },
+      {
+        "name": "16_12_BRAINPAN",
+        "percent": "1.3"
+      },
+      {
+        "name": "16_10_HERETIC_SKULL",
+        "percent": "1.3"
+      },
+      {
+        "name": "16_9_CITADEL_SKULL",
+        "percent": "1.3"
+      },
+      {
+        "name": "15_10_INVASION",
+        "percent": "1.3"
+      },
+      {
+        "name": "13_8_WORSHIP_YOUR_THIRST",
+        "percent": "1.3"
+      },
+      {
+        "name": "13_1_BLOODY_THIRSTY",
+        "percent": "1.3"
+      },
+      {
+        "name": "13_0_BLASTACULAR",
+        "percent": "1.3"
+      },
+      {
+        "name": "12_30_THIRST_LOCKED_DOWN",
+        "percent": "1.3"
+      },
+      {
+        "name": "12_27_SKEET_SHOOTER",
+        "percent": "1.3"
+      },
+      {
+        "name": "12_24_RULE_YOUR_THIRST",
+        "percent": "1.3"
+      },
+      {
+        "name": "12_18_HIGH_ALTITUDE_THIRST",
+        "percent": "1.3"
+      },
+      {
+        "name": "12_17_GATE_YOUR_THIRST",
+        "percent": "1.3"
+      },
+      {
+        "name": "12_4_WRAITH_HUNTER",
+        "percent": "1.3"
+      },
+      {
+        "name": "10_29_SHUT_DOWN_EVERYTHING",
+        "percent": "1.3"
+      },
+      {
+        "name": "10_26_RAGING_IN_THE_DARK",
+        "percent": "1.3"
+      },
+      {
+        "name": "10_10_MAN_ON_THE_MOON",
+        "percent": "1.3"
+      },
+      {
+        "name": "10_8_MILK_CARTON",
+        "percent": "1.3"
+      },
+      {
+        "name": "8_26_SCARAB_SLIDE",
+        "percent": "1.3"
+      },
+      {
+        "name": "7_20_WHY_AM_I_HERE",
+        "percent": "1.3"
+      },
+      {
+        "name": "7_1_PYRRHIC_SOLUTION",
+        "percent": "1.3"
+      },
+      {
+        "name": "6_31_MY_WORK_IS_DONE",
+        "percent": "1.3"
+      },
+      {
+        "name": "6_29_CHIEFTAIN_OF_THE_BRUTES",
+        "percent": "1.3"
+      },
+      {
+        "name": "6_23_SKULLTAKER_HALO_2_BLACK_EYE",
+        "percent": "1.3"
+      },
+      {
+        "name": "6_20_SKULLTAKER_HALO_2_ANGER",
+        "percent": "1.3"
+      },
+      {
+        "name": "6_18_SKULLTAKER_HALO_2_MYTHIC",
+        "percent": "1.3"
+      },
+      {
+        "name": "4_8_MEGG",
+        "percent": "1.3"
+      },
+      {
+        "name": "4_6_T-REX",
+        "percent": "1.3"
+      },
+      {
+        "name": "2_15_ALL_YOU_CAN_EAT",
+        "percent": "1.3"
+      },
+      {
+        "name": "20_17_FAST_FALL",
+        "percent": "1.2"
+      },
+      {
+        "name": "19_18_FAST_AND_LOW",
+        "percent": "1.2"
+      },
+      {
+        "name": "19_6_STRONG_SILENT_TYPE",
+        "percent": "1.2"
+      },
+      {
+        "name": "18_13_FEET_DONT_FAIL_ME_NOW",
+        "percent": "1.2"
+      },
+      {
+        "name": "15_27_DOMINATION",
+        "percent": "1.2"
+      },
+      {
+        "name": "15_24_NICE_WORK_DAWG",
+        "percent": "1.2"
+      },
+      {
+        "name": "15_13_EXODUS",
+        "percent": "1.2"
+      },
+      {
+        "name": "15_12_KEY",
+        "percent": "1.2"
+      },
+      {
+        "name": "15_11_EXPENDABLE",
+        "percent": "1.2"
+      },
+      {
+        "name": "13_9_ZEALOT",
+        "percent": "1.2"
+      },
+      {
+        "name": "13_2_BOMBING_RUN",
+        "percent": "1.2"
+      },
+      {
+        "name": "12_25_SHIELDS_UP",
+        "percent": "1.2"
+      },
+      {
+        "name": "10_25_INTERLOPER",
+        "percent": "1.2"
+      },
+      {
+        "name": "10_7_HIPPO_HERO",
+        "percent": "1.2"
+      },
+      {
+        "name": "7_19_WHY_SO_SERIOUS",
+        "percent": "1.2"
+      },
+      {
+        "name": "7_17_SID_GRAFFITI",
+        "percent": "1.2"
+      },
+      {
+        "name": "7_15_HI_BEN",
+        "percent": "1.2"
+      },
+      {
+        "name": "7_2_TOYBOX",
+        "percent": "1.2"
+      },
+      {
+        "name": "6_21_SKULLTAKER_HALO_2_GHOST",
+        "percent": "1.2"
+      },
+      {
+        "name": "6_12_SKULLTAKER_HALO_2_IWHBYD",
+        "percent": "1.2"
+      },
+      {
+        "name": "2_13_WHISTLE_STOP_TOUR",
+        "percent": "1.2"
+      },
+      {
+        "name": "1_19_SAMPLE_PLATE",
+        "percent": "1.2"
+      },
+      {
+        "name": "22_5_WHO_NEEDS_RED_FLAG?",
+        "percent": "1.1"
+      },
+      {
+        "name": "21_6_FORZA_IN_THE_FALL",
+        "percent": "1.1"
+      },
+      {
+        "name": "20_29_CHOL_VONS_NOT_GONNA_LIKE_THIS",
+        "percent": "1.1"
+      },
+      {
+        "name": "19_17_SHOOT_AND_SCOOT",
+        "percent": "1.1"
+      },
+      {
+        "name": "15_19_ROSES_VS_VIOLETS",
+        "percent": "1.1"
+      },
+      {
+        "name": "12_31_TOP_GUNGOOSE",
+        "percent": "1.1"
+      },
+      {
+        "name": "12_21_POWER_PLAY",
+        "percent": "1.1"
+      },
+      {
+        "name": "10_28_GIMME_THAT",
+        "percent": "1.1"
+      },
+      {
+        "name": "9_29_WHO_NEEDS_THEM?",
+        "percent": "1.1"
+      },
+      {
+        "name": "8_29_SPEED_DEMON",
+        "percent": "1.1"
+      },
+      {
+        "name": "7_14_10_MINUTES_TOO_EARLY",
+        "percent": "1.1"
+      },
+      {
+        "name": "5_8_FORCE_OF_WILL",
+        "percent": "1.1"
+      },
+      {
+        "name": "5_5_I_REGRET_NOTHING",
+        "percent": "1.1"
+      },
+      {
+        "name": "2_16_DID_SOMEBODY_SAY",
+        "percent": "1.1"
+      },
+      {
+        "name": "19_2_VANDALIZED",
+        "percent": "1.0"
+      },
+      {
+        "name": "19_1_LIKE_A_BROKEN_RECORD",
+        "percent": "1.0"
+      },
+      {
+        "name": "15_15_TERM_OF_ENLISTMENT",
+        "percent": "1.0"
+      },
+      {
+        "name": "15_14_FEET_FIRST",
+        "percent": "1.0"
+      },
+      {
+        "name": "12_29_THE_GOOSE_IS_LOOSE",
+        "percent": "1.0"
+      },
+      {
+        "name": "12_23_RED_VS_BLUE",
+        "percent": "1.0"
+      },
+      {
+        "name": "12_3_PACIFIST",
+        "percent": "1.0"
+      },
+      {
+        "name": "11_22_THIS_IS_MY_RIFLE_THIS_IS_MY_GUN",
+        "percent": "1.0"
+      },
+      {
+        "name": "7_31_GRAND_THEFT_HALO",
+        "percent": "1.0"
+      },
+      {
+        "name": "6_24_TROPHY_COLLECTOR",
+        "percent": "1.0"
+      },
+      {
+        "name": "5_12_GOING_NOWHERE_FAST",
+        "percent": "1.0"
+      },
+      {
+        "name": "2_27_OVERACHIEVER",
+        "percent": "1.0"
+      },
+      {
+        "name": "1_25_LORE_MASTER",
+        "percent": "1.0"
+      },
+      {
+        "name": "1_0_LIFE_STORY",
+        "percent": "1.0"
+      },
+      {
+        "name": "22_12_LEFT_BEHIND",
+        "percent": "0.9"
+      },
+      {
+        "name": "22_7_KEEP_YOUR_FOOT_ON_THE_PEDROGAS",
+        "percent": "0.9"
+      },
+      {
+        "name": "19_24_MONUMENTAL_THIRST",
+        "percent": "0.9"
+      },
+      {
+        "name": "19_4_CLASSIC",
+        "percent": "0.9"
+      },
+      {
+        "name": "18_25_THE_MARINE_CORPS_GIVES_ITS_REGARDS",
+        "percent": "0.9"
+      },
+      {
+        "name": "18_16_CANT_STOP_HERE_THIS_IS_BRUTE_COUNTRY",
+        "percent": "0.9"
+      },
+      {
+        "name": "16_0_PLANTING_A_FLAG",
+        "percent": "0.9"
+      },
+      {
+        "name": "15_22_WHAT_POWER_OUTAGE?",
+        "percent": "0.9"
+      },
+      {
+        "name": "13_15_THRONE_OF_BONES",
+        "percent": "0.9"
+      },
+      {
+        "name": "13_12_AFICIANDO",
+        "percent": "0.9"
+      },
+      {
+        "name": "12_26_SHOOK_THE_HORNETS_NEST",
+        "percent": "0.9"
+      },
+      {
+        "name": "7_24_STARVED_FOR_SHIELDS",
+        "percent": "0.9"
+      },
+      {
+        "name": "5_26_ARCADE_OWNER",
+        "percent": "0.9"
+      },
+      {
+        "name": "4_0_EXCELLENT_TASTE",
+        "percent": "0.9"
+      },
+      {
+        "name": "3_30_TYING_UP_LOOSE_ENDS",
+        "percent": "0.9"
+      },
+      {
+        "name": "3_29_LEAVE_IT_WHERE_IT_LAY",
+        "percent": "0.9"
+      },
+      {
+        "name": "3_27_THAT_JUST_HAPPENED",
+        "percent": "0.9"
+      },
+      {
+        "name": "19_19_SHINY_",
+        "percent": "0.8"
+      },
+      {
+        "name": "18_29_TRIFECTA",
+        "percent": "0.8"
+      },
+      {
+        "name": "15_30_CATCH_THIS",
+        "percent": "0.8"
+      },
+      {
+        "name": "15_23_NO_EASY_WAY_OUT",
+        "percent": "0.8"
+      },
+      {
+        "name": "15_16_HAZARD_PAY",
+        "percent": "0.8"
+      },
+      {
+        "name": "13_7_WETWORK",
+        "percent": "0.8"
+      },
+      {
+        "name": "12_10_THE_RETURN_OF_MEGG",
+        "percent": "0.8"
+      },
+      {
+        "name": "12_7_MORTARDOM",
+        "percent": "0.8"
+      },
+      {
+        "name": "11_31_DESTINATION_VACATION",
+        "percent": "0.8"
+      },
+      {
+        "name": "11_23_BROS_TO_THE_CLOSE",
+        "percent": "0.8"
+      },
+      {
+        "name": "11_0_EASY_AS_ONE_TWO_THREE",
+        "percent": "0.8"
+      },
+      {
+        "name": "10_15_DEVASTATING",
+        "percent": "0.8"
+      },
+      {
+        "name": "7_7_CONNOISSEUR",
+        "percent": "0.8"
+      },
+      {
+        "name": "22_13_ONE_FINAL_FIREFIGHT",
+        "percent": "0.7"
+      },
+      {
+        "name": "22_3_WHY_DO_THIS_TO_YOURSELF?",
+        "percent": "0.7"
+      },
+      {
+        "name": "16_5_AIRBORNE",
+        "percent": "0.7"
+      },
+      {
+        "name": "16_1_THE_TRUE_KING",
+        "percent": "0.7"
+      },
+      {
+        "name": "15_20_NO_ONE_LEFT_BEHIND",
+        "percent": "0.7"
+      },
+      {
+        "name": "15_18_SMOOTH_OPERATOR",
+        "percent": "0.7"
+      },
+      {
+        "name": "15_17_ICARUS",
+        "percent": "0.7"
+      },
+      {
+        "name": "14_20_KNIGHTBANE",
+        "percent": "0.7"
+      },
+      {
+        "name": "13_14_DEVOTEE",
+        "percent": "0.7"
+      },
+      {
+        "name": "12_19_INVADERS_REPELLED",
+        "percent": "0.7"
+      },
+      {
+        "name": "12_1_MIND_THE_GAP",
+        "percent": "0.7"
+      },
+      {
+        "name": "10_13_ELDER_SIGNS",
+        "percent": "0.7"
+      },
+      {
+        "name": "9_31_ANNUAL",
+        "percent": "0.7"
+      },
+      {
+        "name": "3_28_LOOK_OUT_FOR_THE_LITTLE_GUYS",
+        "percent": "0.7"
+      },
+      {
+        "name": "18_28_SAFETY_NOT_GUARANTEED",
+        "percent": "0.6"
+      },
+      {
+        "name": "18_26_DEJA_VU",
+        "percent": "0.6"
+      },
+      {
+        "name": "14_19_REMOVE_THE_BISHOPS_FROM_THE_BOARD",
+        "percent": "0.6"
+      },
+      {
+        "name": "13_13_NAKED_TYRANT",
+        "percent": "0.6"
+      },
+      {
+        "name": "13_11_A_PREFERENCE_FOR_PAIN",
+        "percent": "0.6"
+      },
+      {
+        "name": "11_29_YOURE_JOKING",
+        "percent": "0.6"
+      },
+      {
+        "name": "4_17_GOAT_ROPED",
+        "percent": "0.6"
+      },
+      {
+        "name": "4_1_LIKE_A_FINE_WINE",
+        "percent": "0.6"
+      },
+      {
+        "name": "16_3_ROCK_AND_COIL_HIT_BACK",
+        "percent": "0.5"
+      },
+      {
+        "name": "16_2_ROADKILL_RAMPAGE",
+        "percent": "0.5"
+      },
+      {
+        "name": "8_10_MONOPOLIZED",
+        "percent": "0.5"
+      },
+      {
+        "name": "8_9_BACK_FOR_MORE",
+        "percent": "0.5"
+      },
+      {
+        "name": "1_27_LASO_MASTER",
+        "percent": "0.5"
+      }
+    ]
+  }
+}
