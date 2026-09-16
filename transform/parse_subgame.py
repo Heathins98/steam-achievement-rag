@@ -11,11 +11,12 @@ a colon ("Complete ONI: Sword Base."). So instead of splitting on ":",
 this checks whether the description starts with one of a small list of
 known prefixes.
 
-TODO before trusting this fully: hand-inspection never confirmed what
-"Halo 3: ODST" achievements actually look like in the raw description
-text. They might currently be falling into the "Halo 3" bucket below by
-mistake. Grep ingest/cache/schema_976730.json for "ODST" and fix the
-prefix list below if it turns out there's a separate ODST prefix.
+Confirmed by grepping the raw JSON for "ODST": all 97 achievements using
+the "H3: " prefix are actually "H3: ODST: " - there is no separate plain
+"H3: " bucket. Halo 3 proper uses the full "Halo 3: " prefix instead
+(that's a different 89 achievements). So "H3: ODST: " has to be checked
+before "H3: ", or every ODST achievement would get mislabeled as plain
+Halo 3.
 
 Run with:
     python transform/parse_subgame.py
@@ -32,9 +33,12 @@ PERCENT_FILE = os.path.join(HERE, "..", "ingest", "cache", "global_pct_976730.js
 # Order matters - a more specific prefix has to be checked before a
 # shorter one it starts with, or the shorter one would win first. There
 # is no plain "Halo: " entry here on purpose - it was never seen on its
-# own in the data, only as part of "Halo: Reach: ".
+# own in the data, only as part of "Halo: Reach: ". Same reason
+# "H3: ODST: " has to come before "H3: " - every "H3: ODST: ..."
+# description also starts with "H3: ".
 KNOWN_PREFIXES = [
     "Halo: Reach: ",
+    "H3: ODST: ",
     "Halo 2A MP: ",
     "Halo 2 MP: ",
     "Halo CE: ",
