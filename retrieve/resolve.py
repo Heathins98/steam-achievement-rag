@@ -11,9 +11,9 @@ ways, in order:
               difflib?
 
 If a question matches, its linked chunks (from achievement_chunks) get
-printed as the answer - there's no generation step yet (that's
-milestone 11), so this just surfaces the raw guide text, not a written
-answer.
+printed as the answer - this module only resolves and surfaces raw
+guide text, it doesn't write anything. retrieve/generate.py is the
+piece that turns this into an actual written answer.
 
 Be honest about what this can and can't catch: fuzzy matching here
 compares the whole question against each display name, so it mostly
@@ -26,9 +26,9 @@ isn't a bug, it's the actual baseline gap the brief wants measured.
 Two ways to use this file:
   - Run it directly for an interactive prompt: type a question, see
     what it resolves to.
-  - Import resolve_question() once retrieve/search.py exists, so an
-    unresolved question can fall through to real search instead of
-    just giving up.
+  - Import resolve_question() - retrieve/answer.py does exactly this,
+    falling through to retrieve/search.py's hybrid search when nothing
+    resolves, instead of just giving up.
 
 Run with:
     python retrieve/resolve.py

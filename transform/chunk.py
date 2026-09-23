@@ -16,11 +16,13 @@ Field names below (for both guides.py's cached responses) were
 confirmed by hand against real output, not guessed - see the
 conversation history / commit message for how each one was checked.
 
-Note: chunks.sub_game is left NULL here on purpose. Unlike achievements,
-a single guide section doesn't come with anything telling us which
-sub-game it belongs to - that has to come from somewhere else later
-(maybe inherited through achievement_chunks once that link exists in
-milestone 7), not guessed at here.
+Note: chunks.sub_game is left NULL here, and stays that way - it's not
+populated anywhere in the current pipeline. Unlike achievements, a
+single guide section doesn't come with anything telling us which
+sub-game it belongs to. transform/link.py links chunks to achievements
+(which do have a sub_game), so inheriting a value through that link is
+possible in principle, but nothing does it today - a chunk's sub_game
+column is unused, not silently wrong.
 
 Some guide sections bundle several achievements together under one
 heading instead of one section per achievement - confirmed by hand

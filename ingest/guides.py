@@ -1,25 +1,29 @@
 """
-Fetches the top ~20 Steam Community Guides for Halo MCC and saves the
-raw JSON to ingest/cache/. Same rule as achievements.py - this script
-only captures, it does not parse or reshape anything.
+Fetches Steam Community Guides for Halo MCC and saves the raw JSON to
+ingest/cache/. Same rule as achievements.py - this script only
+captures, it does not parse or reshape anything.
 
-Three chained Steam API calls, one feeding the next:
+Two kinds of fetch, both going through the same three chained Steam API
+calls:
   1. QueryFiles       - search for guides for this app, get back a list
-                         of guide IDs, sorted by Steam's rating
-  2. GetDetails        - get title/author/vote info for each ID
+                         of guide IDs. Run once ranked by vote (the top
+                         NUM_GUIDES), then again per entry in
+                         TARGETED_SEARCHES to backfill sub-games the
+                         vote-ranked list under-covers (see the comments
+                         on those two constants below for why).
+  2. GetDetails        - get title/author/vote/language info for every
+                         ID found across both kinds of search
   3. GetSubSectionData - get the actual section-by-section guide text
                          for each ID (this is what transform/chunk.py
-                         will split into chunks later)
+                         splits into chunks)
 
-IMPORTANT - honesty check on how sure I am about each endpoint:
-QueryFiles is well documented and the params/response shape below are
-confirmed. GetDetails and GetSubSectionData are NOT well documented -
-I could not find an authoritative response shape for either one. The
-parameters below are my best-supported guess based on how the rest of
-the Steam Web API is shaped, not something I confirmed against real
-output. Inspect ingest/cache/guides_details_976730.json and one of the
-guide_sections_*.json files by hand (same as milestone 4) before
-assuming anything about their structure in transform/chunk.py.
+Response shapes: QueryFiles is officially documented. GetDetails and
+GetSubSectionData are NOT officially documented by Steam, but every
+field this script and transform/chunk.py actually read from them
+(creator, time_updated, vote_data, language, sub_sections, title,
+description_text, sort_order) was confirmed against real responses
+during development, not just guessed at from how the rest of the API
+is shaped.
 
 Run with:
     python ingest/guides.py

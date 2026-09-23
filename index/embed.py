@@ -5,9 +5,8 @@ vector(384) column already defined in index/schema.sql).
 
 This is the first half of milestone 10: turning the guide text already
 sitting in the database into something a similarity search can actually
-compare against. retrieve/search.py (not written yet) is the code that
-runs a query against these embeddings - this script just fills the
-column in.
+compare against. retrieve/search.py is the code that runs a query
+against these embeddings - this script just fills the column in.
 
 No extra pgvector client library here - the embedding gets converted to
 pgvector's own text format ("[0.1,0.2,...]") and passed as a plain

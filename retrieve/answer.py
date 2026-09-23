@@ -4,8 +4,9 @@ through to hybrid search if the resolver comes back empty. This is what
 "resolve, don't retrieve" means in practice - search is the fallback
 path, not the default one.
 
-No generation step yet (that's milestone 11) - this still just returns
-whichever chunks it found, not a written-out answer.
+This file itself doesn't generate anything - it still just returns
+whichever chunks it found, not a written-out answer. retrieve/generate.py
+is the layer on top of this that actually writes an answer from them.
 
 Run with:
     python retrieve/answer.py

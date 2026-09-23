@@ -79,17 +79,17 @@ def load_achievements():
         percent_by_name[entry["name"]] = entry["percent"]
 
     rows = []
-    for a in achievements:
+    for achievement in achievements:
         # hidden achievements don't have a "description" key at all,
         # not just an empty one, so use .get() here
-        description = a.get("description", "")
+        description = achievement.get("description", "")
         rows.append({
-            "api_name": a["name"],
-            "display_name": a["displayName"],
+            "api_name": achievement["name"],
+            "display_name": achievement["displayName"],
             "description": description if description else None,
-            "is_hidden": bool(a["hidden"]),
+            "is_hidden": bool(achievement["hidden"]),
             "sub_game": parse_sub_game(description),
-            "global_pct": percent_by_name.get(a["name"]),
+            "global_pct": percent_by_name.get(achievement["name"]),
         })
     return rows
 
