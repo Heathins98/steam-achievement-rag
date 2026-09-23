@@ -1,0 +1,48 @@
+{
+  "response": {
+    "sub_sections": [
+      {
+        "sectionid": "3921555",
+        "title": "Master Chief",
+        "description_text": "[previewimg=20829429;sizeThumb,floatLeft;Master-Chief-PNG-Image.png][/previewimg]\n[b]Helmet[/b]: Mjolnir MK.VI\n\n[b]Left Shoulder[/b]: Mjolnir Mk.V\n\n[b]Right Shoulder[/b]: Mjolnir Mk.V\n\n[b]Chest[/b]: Default\n\n[b]Wrist[/b]: Default\n\n[b]Utility[/b]: Default\n\n[b]Knee Guards[/b]: FJ/Para\n\n[b]Firefight Voice[/b]: John-117\n\n[b]Visor Color[/b]: Gold\n\n[b]Primary Color[/b]: Sage\n\n[b]Secondary Color[/b]: Sage",
+        "sort_order": 7
+      },
+      {
+        "sectionid": "3921553",
+        "title": "Noble 6 (DEFAULT)",
+        "description_text": "[previewimg=20829398;sizeThumb,floatLeft;Noble_Six.png][/previewimg]\n[b]Helmet[/b]: Default\n\n[b]Left Shoulder[/b]: Default\n\n[b]Right Shoulder[/b]: Default\n\n[b]Wrist[/b]: Default\n\n[b]Utility[/b]: Default\n\n[b]Knee Guards[/b]: Default\n\n[b]Firefight Voice[/b]: Default\n\n[b]Visor Color[/b]: Default\n\n[b]Primary Color[/b]: Default\n\n[b]Secondary Color[/b]: Default",
+        "sort_order": 6
+      },
+      {
+        "sectionid": "3921549",
+        "title": "Kat-B320",
+        "description_text": "[previewimg=20829385;sizeThumb,floatLeft;373-3734364_http-images3-wikia-nocookie-net-cb20100616221923-halo-kat.png][/previewimg]\n[b]Helmet[/b]: Air Assault [FC-1] Unfortunately there is an attachment which Kat doesn't have so it kind of makes you look less similar.\n\n[b]Left Shoulder[/b]: FJ/Para\n\n[b]Right Shoulder[/b]: FJ/Para\n\n[b]Utility[/b]: Tactical Hard Case\n\n[b]Firefight Voice[/b]: Kat\n\n[b]Visor Color[/b]: Silver\n\n[b]Primary Color[/b]: Ice\n\n[b]Secondary Color[/b]: Steel",
+        "sort_order": 5
+      },
+      {
+        "sectionid": "3921531",
+        "title": "Jun-A266",
+        "description_text": "[previewimg=20829346;sizeThumb,floatLeft;Jun.png][/previewimg][b]\nHelmet[/b]: Scout [HU/RS]\n\n[b]Left Shoulder[/b]: Sniper\n\n[b]Chest[/b]: Tactical Patrol\n\n[b]Wrist[/b]: Tactical/UGPS\n\n[b]Utility[/b]: Soft Case\n\n[b]Knee Guards[/b]: FJ/Para\n\n[b]Firefight Voice[/b]: Jun\n\n[b]Primary Color[/b]: Sage\n\n [b]Secondary Color[/b]: Sage",
+        "sort_order": 4
+      },
+      {
+        "sectionid": "3921524",
+        "title": "Carter-A259",
+        "description_text": "[previewimg=20829249;sizeThumb,floatLeft;HR-Carter-A259_(render).png][/previewimg][b]Helmet[/b]: Commando\n\n[b]Left Shoulder[/b]: Commando\n\n[b]Right Shoulder[/b]: Mjolnir Mk. V\n\n[b]Chest[/b]: Assault/Commando\n\n[b]Wrist[/b]: Tactical/Tacpad\n\n[b]Knee Guards[/b]: FJ/Para\n\n[b]Firefight Voice[/b]: Carter\n\n[b]Visor Color[/b]: Gold\n\n[b]Primary Color[/b]: Cobalt\n\n[b]Secondary Color[/b]: Steel",
+        "sort_order": 3
+      },
+      {
+        "sectionid": "3921522",
+        "title": "Jorge-052",
+        "description_text": "[previewimg=20829243;sizeThumb,floatLeft;373-3734699_halo-reach-jorge-armor-download-halo-custom-games.png][/previewimg] [b]Helmet[/b]: Grenadier [uA]\n\n[b]Left Shoulder[/b]: Grenadier\n\n[b]Right Shoulder[/b]: EVA\n\n[b]Chest[/b]: Collar/Grenadier [uA]\n\n[b]Wrist[/b]: UA/Bracer\n\n[b]Knee Guards[/b]: Grenadier\n\n[b]Firefight Voice[/b]: Jorge\n\n[b]Visor Color[/b]: Gold\n\n[b]Primary Color[/b]: Sage (Jorge has so many colors just pick the one that you like most)\n\n[b]Secondary Color[/b]: Red (Jorge has so many colors just pick the one that you like most)",
+        "sort_order": 2
+      },
+      {
+        "sectionid": "3921515",
+        "title": "Emile-A239",
+        "description_text": "[previewimg=20829256;sizeThumb,floatLeft;ezgif.com-crop.png][/previewimg][b]Helmet[/b]: EVA [C]\n\n[b]Left Shoulder[/b]: Operator\n\n[b]Right Shoulder[/b]: Security\n\n[b]Chest[/b]: Assault/Sapper\n\n[b]Utility[/b]: Soft Case\n\n[b]Knee Guards[/b]: FJ/Para\n\n[b]Firefight Voice[/b]: Emile\n\n[b]Visor Color[/b]: Default\n\n[b]Primary Color[/b]: Steel\n\n[b]Secondary Color[/b]: Red",
+        "sort_order": 1
+      }
+    ]
+  }
+}

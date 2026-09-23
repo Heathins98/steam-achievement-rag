@@ -1,0 +1,102 @@
+{
+  "response": {
+    "sub_sections": [
+      {
+        "sectionid": "6296290",
+        "title": "[previewimg=32094137;sizeFull,inline;Halo_2_Logo_29-min.png][/previewimg]",
+        "description_text": "",
+        "sort_order": 0
+      },
+      {
+        "sectionid": "4906625",
+        "title": "Credits/Technical Support",
+        "description_text": "[previewimg=25413161;sizeFull,floatLeft;16.jpg][/previewimg]\n[previewimg=25413163;sizeFull,floatLeft;17.jpg][/previewimg]",
+        "sort_order": 15
+      },
+      {
+        "sectionid": "4906620",
+        "title": "Multiplayer Strategy/Bungie.net",
+        "description_text": "[previewimg=25413160;sizeFull,floatLeft;15.jpg][/previewimg]",
+        "sort_order": 14
+      },
+      {
+        "sectionid": "4906619",
+        "title": "Gaming With Friends!",
+        "description_text": "[previewimg=25413157;sizeFull,floatLeft;14.jpg][/previewimg]",
+        "sort_order": 13
+      },
+      {
+        "sectionid": "4906618",
+        "title": "Xbox Live",
+        "description_text": "[previewimg=25413156;sizeFull,floatLeft;13.jpg][/previewimg]",
+        "sort_order": 12
+      },
+      {
+        "sectionid": "4906616",
+        "title": "Settings/Multiplayer Basics",
+        "description_text": "[previewimg=25413152;sizeFull,floatLeft;11.jpg][/previewimg]\n[previewimg=25413154;sizeFull,floatLeft;12.jpg][/previewimg]",
+        "sort_order": 11
+      },
+      {
+        "sectionid": "4906596",
+        "title": "Human Ground Vehicles",
+        "description_text": "[previewimg=25413151;sizeFull,floatLeft;10.jpg][/previewimg]",
+        "sort_order": 10
+      },
+      {
+        "sectionid": "4906595",
+        "title": "Covenant Vehicle Deployment",
+        "description_text": "[previewimg=25413150;sizeFull,floatLeft;9.jpg][/previewimg]",
+        "sort_order": 9
+      },
+      {
+        "sectionid": "4906594",
+        "title": "Primitive Implements of War",
+        "description_text": "[previewimg=25413148;sizeFull,floatLeft;7.jpg][/previewimg]\n[previewimg=25413149;sizeFull,floatLeft;8.jpg][/previewimg]",
+        "sort_order": 8
+      },
+      {
+        "sectionid": "4906593",
+        "title": "Noble Tools of Conquest",
+        "description_text": "[previewimg=25413147;sizeFull,floatLeft;6.jpg][/previewimg]",
+        "sort_order": 7
+      },
+      {
+        "sectionid": "4906592",
+        "title": "Sangheili Battle Suit/Battle Tactics",
+        "description_text": "[previewimg=25413146;sizeFull,floatLeft;5.jpg][/previewimg]",
+        "sort_order": 6
+      },
+      {
+        "sectionid": "4906591",
+        "title": "Controller",
+        "description_text": "[previewimg=25413144;sizeFull,floatLeft;4.jpg][/previewimg]",
+        "sort_order": 5
+      },
+      {
+        "sectionid": "4906590",
+        "title": "Our Numbers Deployed On the Human World",
+        "description_text": "[previewimg=25413143;sizeFull,floatLeft;3.jpg][/previewimg]",
+        "sort_order": 4
+      },
+      {
+        "sectionid": "4906589",
+        "title": "Report on The Atrocity at Halo/Updated Intelligence on Human Weapons and Tactics",
+        "description_text": "[previewimg=25413142;sizeFull,floatLeft;2.jpg][/previewimg]",
+        "sort_order": 3
+      },
+      {
+        "sectionid": "4906587",
+        "title": "Safety Information/Table of Contents",
+        "description_text": "[previewimg=25413141;sizeFull,floatLeft;1.jpg][/previewimg]",
+        "sort_order": 2
+      },
+      {
+        "sectionid": "4906585",
+        "title": "Cover",
+        "description_text": "[previewimg=25413134;sizeFull,floatLeft;Halo_2_2004_Microsoft_US_covenant_cover_0000.jpg][/previewimg]",
+        "sort_order": 1
+      }
+    ]
+  }
+}

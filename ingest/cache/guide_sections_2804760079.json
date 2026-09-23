@@ -1,0 +1,72 @@
+{
+  "response": {
+    "sub_sections": [
+      {
+        "sectionid": "6296293",
+        "title": "[previewimg=32094168;sizeFull,inline;pngegg.png][/previewimg]",
+        "description_text": "",
+        "sort_order": 0
+      },
+      {
+        "sectionid": "5374170",
+        "title": "Back Cover",
+        "description_text": "[previewimg=27410440;sizeThumb,floatLeft;16.PNG][/previewimg]",
+        "sort_order": 10
+      },
+      {
+        "sectionid": "5374156",
+        "title": "Cover",
+        "description_text": "[previewimg=27410375;sizeThumb,floatLeft;1.PNG][/previewimg]",
+        "sort_order": 1
+      },
+      {
+        "sectionid": "5374155",
+        "title": "Halo Waypoint / Bungie.net / Xbox Live",
+        "description_text": "[previewimg=27410438;sizeFull,floatLeft;15.PNG][/previewimg]",
+        "sort_order": 9
+      },
+      {
+        "sectionid": "5374153",
+        "title": "Player Custom Content / Multiplayer connections",
+        "description_text": "[previewimg=27410437;sizeFull,floatLeft;14.PNG][/previewimg]",
+        "sort_order": 8
+      },
+      {
+        "sectionid": "5374151",
+        "title": "Multiplayer Game Lobbies / Custom Games / The Forge",
+        "description_text": "[previewimg=27410431;sizeFull,floatLeft;10.PNG][/previewimg]\n[previewimg=27410433;sizeFull,floatLeft;11.PNG][/previewimg]\n[previewimg=27410435;sizeFull,floatLeft;12.PNG][/previewimg]\n[previewimg=27410436;sizeFull,floatLeft;13.PNG][/previewimg]",
+        "sort_order": 7
+      },
+      {
+        "sectionid": "5374150",
+        "title": "Multiplayer Basics / Matchmaking",
+        "description_text": "[previewimg=27410429;sizeFull,floatLeft;9.PNG][/previewimg]\n",
+        "sort_order": 6
+      },
+      {
+        "sectionid": "5374149",
+        "title": "Game Controls",
+        "description_text": "[previewimg=27410428;sizeFull,floatLeft;8.PNG][/previewimg]",
+        "sort_order": 5
+      },
+      {
+        "sectionid": "5374145",
+        "title": "Ordnance",
+        "description_text": "[previewimg=27410425;sizeFull,floatLeft;5.PNG][/previewimg]\n[previewimg=27410426;sizeFull,floatLeft;6.PNG][/previewimg]\n[previewimg=27410427;sizeFull,floatLeft;7.PNG][/previewimg]",
+        "sort_order": 4
+      },
+      {
+        "sectionid": "5374142",
+        "title": "Heads-Up Displays",
+        "description_text": "[previewimg=27410423;sizeFull,floatLeft;3.PNG][/previewimg]\n[previewimg=27410424;sizeFull,floatLeft;4.PNG][/previewimg]\n",
+        "sort_order": 3
+      },
+      {
+        "sectionid": "5374140",
+        "title": "Warnings / Welcome To Noble Team",
+        "description_text": "[previewimg=27410419;sizeFull,floatLeft;2.PNG][/previewimg]",
+        "sort_order": 2
+      }
+    ]
+  }
+}

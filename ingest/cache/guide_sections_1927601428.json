@@ -1,0 +1,48 @@
+{
+  "response": {
+    "sub_sections": [
+      {
+        "sectionid": "3309501",
+        "title": "End",
+        "description_text": "[previewimg=17289347;sizeOriginal,floatLeft;HaloReach_MNL_EN-US-15.jpg][/previewimg]\n[previewimg=17289348;sizeOriginal,floatLeft;HaloReach_MNL_EN-US-16.jpg][/previewimg]\n[previewimg=17289350;sizeOriginal,floatLeft;HaloReach_MNL_EN-US-17.jpg][/previewimg]",
+        "sort_order": 7
+      },
+      {
+        "sectionid": "3309496",
+        "title": "Multiplayer Basics",
+        "description_text": "[previewimg=17289317;sizeOriginal,floatLeft;HaloReach_MNL_EN-US-09.jpg][/previewimg]\n[previewimg=17289323;sizeOriginal,floatLeft;HaloReach_MNL_EN-US-10.jpg][/previewimg]\n[previewimg=17289328;sizeOriginal,floatLeft;HaloReach_MNL_EN-US-11.jpg][/previewimg]\n[previewimg=17289329;sizeOriginal,floatLeft;HaloReach_MNL_EN-US-12.jpg][/previewimg]\n[previewimg=17289330;sizeOriginal,floatLeft;HaloReach_MNL_EN-US-13.jpg][/previewimg]\n[previewimg=17289333;sizeOriginal,floatLeft;HaloReach_MNL_EN-US-14.jpg][/previewimg]",
+        "sort_order": 6
+      },
+      {
+        "sectionid": "3309495",
+        "title": "Game Controls",
+        "description_text": "[previewimg=17289297;sizeOriginal,floatLeft;HaloReach_MNL_EN-US-08.jpg][/previewimg]",
+        "sort_order": 5
+      },
+      {
+        "sectionid": "3309494",
+        "title": "Ordnance",
+        "description_text": "[previewimg=17289274;sizeOriginal,floatLeft;HaloReach_MNL_EN-US-05.jpg][/previewimg]\n[previewimg=17289277;sizeOriginal,floatLeft;HaloReach_MNL_EN-US-06.jpg][/previewimg]\n[previewimg=17289281;sizeOriginal,floatLeft;HaloReach_MNL_EN-US-07.jpg][/previewimg]",
+        "sort_order": 4
+      },
+      {
+        "sectionid": "3309493",
+        "title": "Heads up Display",
+        "description_text": "[previewimg=17289259;sizeOriginal,floatLeft;HaloReach_MNL_EN-US-03.jpg][/previewimg]\n[previewimg=17289261;sizeOriginal,floatLeft;HaloReach_MNL_EN-US-04.jpg][/previewimg]\n",
+        "sort_order": 3
+      },
+      {
+        "sectionid": "3309491",
+        "title": "Table of Contents",
+        "description_text": "[previewimg=17289253;sizeOriginal,floatLeft;HaloReach_MNL_EN-US-02.jpg][/previewimg]",
+        "sort_order": 2
+      },
+      {
+        "sectionid": "3309485",
+        "title": "Cover",
+        "description_text": "[previewimg=17289239;sizeOriginal,floatLeft;HaloReach_MNL_EN-US-01.jpg][/previewimg]\n",
+        "sort_order": 1
+      }
+    ]
+  }
+}

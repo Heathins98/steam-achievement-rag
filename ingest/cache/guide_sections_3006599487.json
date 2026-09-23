@@ -1,0 +1,54 @@
+{
+  "response": {
+    "sub_sections": [
+      {
+        "sectionid": "7257769",
+        "title": "Update",
+        "description_text": "I forgot to mention (partially because the renders in halo mcc are wrong) that the secondary color is the only thing you change, all the other colors are steel and all but Hudson use the odst helmet. Also, disregard the thumbnail. I will eventually change it. Another thing,You can't have a 100% looking odst from raven. Sorry for the inconvenience. :)\n\nLink for the render from 343:\nhttps://www.halowaypoint.com/en-us/news/thats-so-raven\n\nEdit to Edit: I also forgot to provide the color of the visor",
+        "sort_order": 0
+      },
+      {
+        "sectionid": "6395231",
+        "title": "End",
+        "description_text": "Thank you for reading! Only give an award if you want to.",
+        "sort_order": 7
+      },
+      {
+        "sectionid": "6395228",
+        "title": "Lang (Purple)",
+        "description_text": "ODST/DEMO\n\nBack: Demolitions Pack",
+        "sort_order": 6
+      },
+      {
+        "sectionid": "6395226",
+        "title": "Ramos (Green)",
+        "description_text": "ODST/HVY\n\nBack: Ammo Pack",
+        "sort_order": 5
+      },
+      {
+        "sectionid": "6395213",
+        "title": "Graves (Blue)",
+        "description_text": "ODST/TAC\n\nback: tactical pack\n\nVisor:Dark blue",
+        "sort_order": 4
+      },
+      {
+        "sectionid": "6395209",
+        "title": "Why?",
+        "description_text": "Fireteam raven was my first exposure to Halo, and I wanted to look like the characters from the game.\n\nLuckily, they released cosmetics that transform your player to them, but you need to remember it by ODST/___. So I decided to give the color of them and the set's name",
+        "sort_order": 1
+      },
+      {
+        "sectionid": "6395218",
+        "title": "Hudson (Salmon)",
+        "description_text": "ODST/COMM\n\nBack: communications Pack\n\nVisor: could be red or yellow, your prefrence\n\nNote:the color is slightly off",
+        "sort_order": 3
+      },
+      {
+        "sectionid": "6395215",
+        "title": "How its formated",
+        "description_text": "Name and color in title\n\nset name and visor in contents",
+        "sort_order": 2
+      }
+    ]
+  }
+}

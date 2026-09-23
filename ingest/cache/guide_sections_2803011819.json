@@ -1,0 +1,54 @@
+{
+  "response": {
+    "sub_sections": [
+      {
+        "sectionid": "5365611",
+        "title": "Support",
+        "description_text": "[previewimg=27356217;sizeOriginal,floatLeft;Halo_3-_ODST_-_2009_-_Microsoft1024_15.jpg][/previewimg]\n[previewimg=27356219;sizeOriginal,floatLeft;Halo_3-_ODST_-_2009_-_Microsoft1024_16.jpg][/previewimg]",
+        "sort_order": 8
+      },
+      {
+        "sectionid": "5365610",
+        "title": "Controls",
+        "description_text": "[previewimg=27356216;sizeOriginal,floatLeft;Halo_3-_ODST_-_2009_-_Microsoft1024_14.jpg][/previewimg]",
+        "sort_order": 7
+      },
+      {
+        "sectionid": "5365608",
+        "title": "Multiplayer",
+        "description_text": "[previewimg=27356210;sizeOriginal,floatLeft;Halo_3-_ODST_-_2009_-_Microsoft1024_8.jpg][/previewimg]\n[previewimg=27356211;sizeOriginal,floatLeft;Halo_3-_ODST_-_2009_-_Microsoft1024_9.jpg][/previewimg]\n[previewimg=27356212;sizeOriginal,floatLeft;Halo_3-_ODST_-_2009_-_Microsoft1024_10.jpg][/previewimg]\n[previewimg=27356213;sizeOriginal,floatLeft;Halo_3-_ODST_-_2009_-_Microsoft1024_11.jpg][/previewimg]\n[previewimg=27356214;sizeOriginal,floatLeft;Halo_3-_ODST_-_2009_-_Microsoft1024_12.jpg][/previewimg]\n[previewimg=27356215;sizeOriginal,floatLeft;Halo_3-_ODST_-_2009_-_Microsoft1024_13.jpg][/previewimg]",
+        "sort_order": 6
+      },
+      {
+        "sectionid": "5365607",
+        "title": "Firefight",
+        "description_text": "[previewimg=27356209;sizeOriginal,floatLeft;Halo_3-_ODST_-_2009_-_Microsoft1024_7.jpg][/previewimg]",
+        "sort_order": 5
+      },
+      {
+        "sectionid": "5365604",
+        "title": "HUD and VISR",
+        "description_text": "[previewimg=27356206;sizeOriginal,floatLeft;Halo_3-_ODST_-_2009_-_Microsoft1024_5.jpg][/previewimg]\n[previewimg=27356208;sizeOriginal,floatLeft;Halo_3-_ODST_-_2009_-_Microsoft1024_6.jpg][/previewimg]",
+        "sort_order": 4
+      },
+      {
+        "sectionid": "5365603",
+        "title": "Transmission",
+        "description_text": "[previewimg=27356204;sizeOriginal,floatLeft;Halo_3-_ODST_-_2009_-_Microsoft1024_3.jpg][/previewimg]\n[previewimg=27356205;sizeOriginal,floatLeft;Halo_3-_ODST_-_2009_-_Microsoft1024_4.jpg][/previewimg]",
+        "sort_order": 3
+      },
+      {
+        "sectionid": "5365601",
+        "title": "Table of Contents",
+        "description_text": "[previewimg=27356203;sizeOriginal,floatLeft;Halo_3-_ODST_-_2009_-_Microsoft1024_2.jpg][/previewimg]",
+        "sort_order": 2
+      },
+      {
+        "sectionid": "5365598",
+        "title": "Cover",
+        "description_text": "[previewimg=27356201;sizeOriginal,floatLeft;Halo_3-_ODST_-_2009_-_Microsoft1024_1.jpg][/previewimg]\n",
+        "sort_order": 1
+      }
+    ]
+  }
+}

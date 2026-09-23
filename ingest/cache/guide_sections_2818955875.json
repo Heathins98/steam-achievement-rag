@@ -1,0 +1,54 @@
+{
+  "response": {
+    "sub_sections": [
+      {
+        "sectionid": "5448627",
+        "title": "Ending words",
+        "description_text": "I've always thought that the viewmodels in the Halo games are pretty bad on the default centered crosshair since they are made for using a lowered crosshair. CE is the only game in MCC made with centered in mind.\n\nThe inspiration for the guide comes from these two:\nhttps://www.youtube.com/watch?v=Y-gc_qtDicw\nThis video tries to replicate the CE viewmodels in 3 and Reach and looks pretty good.\n\nhttps://forums.halowaypoint.com/t/halo-2-view-model/506979\nSame as above but for Halo 2.\n\nI then tested the \"classic\" viewmodel in CS:GO, and actually liked it. It almost replicates the viewmodels used in 1.6 and Source.\n\nI then went back to Source and thought, why don't I try to replicate these in Halo? I went trough all the games and tried what looks the best. Increasing the depth isn't that important to create similar viewmodels to Counter-Strike but I personally don't like when the weapons take so much space on the screen so I maxed that on every game aswell.\n\nFeel free to leave any suggestions or improvements in the comments!\n\n",
+        "sort_order": 8
+      },
+      {
+        "sectionid": "5440583",
+        "title": "Halo 4",
+        "description_text": "Similar to Reach.\n[previewimg=27842767;sizeThumb,floatLeft;20220613203510_1.jpg][/previewimg]\n[previewimg=27842766;sizeThumb,floatLeft;20220613203456_1.jpg][/previewimg]\n[table]\n\t[tr]\n\t\t[th]OFFSET TYPE[/th]\n\t\t[th]MELEE[/th]\n\t\t[th]PISTOLS[/th]\n\t\t[th]RIFLES[/th]\n\t\t[th]HEAVY[/th]\n\t\t\n\t[/tr]\n\t[tr]\n\t\t[td]DEPTH[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t[/tr]\n\t[tr]\n\t\t[td]HORIZONTAL[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t[/tr]\n\t[tr]\n\t\t[td]VERTICAL[/td]\n\t\t[td]-15[/td]\n\t\t[td]-15[/td]\n\t\t[td]-15[/td]\n\t\t[td]-15[/td]\n\t[/tr]\n[/table]",
+        "sort_order": 7
+      },
+      {
+        "sectionid": "5440582",
+        "title": "Halo 3: ODST",
+        "description_text": "Same as Halo 3 but no dual wield.\n[previewimg=27843028;sizeThumb,floatLeft;20220613205609_1.jpg][/previewimg]\n[previewimg=27843027;sizeThumb,floatLeft;20220613205556_1.jpg][/previewimg]\n[table]\n\t[tr]\n\t\t[th]OFFSET TYPE[/th]\n\t\t[th]MELEE[/th]\n\t\t[th]PISTOLS[/th]\n\t\t[th]RIFLES[/th]\n\t\t[th]HEAVY[/th]\n\t\t\n\t[/tr]\n\t[tr]\n\t\t[td]DEPTH[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t[/tr]\n\t[tr]\n\t\t[td]HORIZONTAL[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t[/tr]\n\t[tr]\n\t\t[td]VERTICAL[/td]\n\t\t[td]-5[/td]\n\t\t[td]-10[/td]\n\t\t[td]-10[/td]\n\t\t[td]-10[/td]\n\t[/tr]\n[/table]",
+        "sort_order": 6
+      },
+      {
+        "sectionid": "5440581",
+        "title": "Halo 3",
+        "description_text": "Pretty straightforward.\n[previewimg=27842764;sizeThumb,floatLeft;20220613203258_1.jpg][/previewimg]\n[previewimg=27842763;sizeThumb,floatLeft;20220613203245_1.jpg][/previewimg]\n[table]\n\t[tr]\n\t\t[th]OFFSET TYPE[/th]\n\t\t[th]MELEE[/th]\n\t\t[th]PISTOLS[/th]\n\t\t[th]RIFLES[/th]\n\t\t[th]HEAVY[/th]\n\t\t[th]DUAL WIELD[/th]\n\t\t\n\t[/tr]\n\t[tr]\n\t\t[td]DEPTH[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t[/tr]\n\t[tr]\n\t\t[td]HORIZONTAL[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t[/tr]\n\t[tr]\n\t\t[td]VERTICAL[/td]\n\t\t[td]-5[/td]\n\t\t[td]-10[/td]\n\t\t[td]-10[/td]\n\t\t[td]-10[/td]\n\t\t[td]-10[/td]\n\t[/tr]\n[/table]",
+        "sort_order": 5
+      },
+      {
+        "sectionid": "5440576",
+        "title": "Halo 2 / Anniversary",
+        "description_text": "Halo 2 is the hardest one to work with since the viewmodels still haven't been properly adjusted for centered crosshair like the other games in MCC. But the following adjustments still works pretty good and weapons are no longer in your face as much as the default option.\n[previewimg=27842762;sizeThumb,floatLeft;20220613202732_1.jpg][/previewimg]\n[previewimg=27842770;sizeThumb,floatLeft;20220613202709_1.jpg][/previewimg]\n[table]\n\t[tr]\n\t\t[th]OFFSET TYPE[/th]\n\t\t[th]MELEE[/th]\n\t\t[th]PISTOLS[/th]\n\t\t[th]RIFLES[/th]\n\t\t[th]HEAVY[/th]\n\t\t[th]DUAL WIELD[/th]\n\t[/tr]\n\t[tr]\n\t\t[td]DEPTH[/td]\n\t\t[td]5[/td]\n\t\t[td]15[/td]\n\t\t[td]10[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t\t\n\t[/tr]\n\t[tr]\n\t\t[td]HORIZONTAL[/td]\n\t\t[td]10[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t[/tr]\n\t[tr]\n\t\t[td]VERTICAL[/td]\n\t\t[td]-15[/td]\n\t\t[td]-15[/td]\n\t\t[td]-15[/td]\n\t\t[td]-15[/td]\n\t\t[td]-15[/td]\n\t[/tr]\n[/table]",
+        "sort_order": 4
+      },
+      {
+        "sectionid": "5440574",
+        "title": "Halo: Combat Evolved / Anniversary",
+        "description_text": "Halo CE already has probably the best viewmodels but can of course be adjusted aswell.\n[previewimg=27842768;sizeThumb,floatLeft;20220613202224_1.jpg][/previewimg]\n[previewimg=27842771;sizeThumb,floatLeft;20220613202156_1.jpg][/previewimg]\n[table]\n\t[tr]\n\t\t[th]OFFSET TYPE[/th]\n\t\t[th]MELEE[/th]\n\t\t[th]PISTOLS[/th]\n\t\t[th]RIFLES[/th]\n\t\t[th]HEAVY[/th]\n\t\t\n\t[/tr]\n\t[tr]\n\t\t[td]DEPTH[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t\t[td]12[/td]\n\t\t[td]15[/td]\n\t[/tr]\n\t[tr]\n\t\t[td]HORIZONTAL[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t[/tr]\n\t[tr]\n\t\t[td]VERTICAL[/td]\n\t\t[td]-10[/td]\n\t\t[td]-10[/td]\n\t\t[td]-10[/td]\n\t\t[td]-10[/td]\n\t[/tr]\n[/table]",
+        "sort_order": 3
+      },
+      {
+        "sectionid": "5440573",
+        "title": "Halo: Reach",
+        "description_text": "Starting with Reach the adjustments are the following:\nBefore (default) and after.\n[previewimg=27842780;sizeThumb,floatLeft;20220613202009_1.jpg][/previewimg]\n[previewimg=27842773;sizeThumb,floatLeft;20220613201954_1.jpg][/previewimg]\n[table]\n\t[tr]\n\t\t[th]OFFSET TYPE[/th]\n\t\t[th]MELEE[/th]\n\t\t[th]PISTOLS[/th]\n\t\t[th]RIFLES[/th]\n\t\t[th]HEAVY[/th]\n\t\t\n\t[/tr]\n\t[tr]\n\t\t[td]DEPTH[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t\t[td]10[/td]\n\t\t[td]15[/td]\n\t[/tr]\n\t[tr]\n\t\t[td]HORIZONTAL[/td]\n\t\t[td]10[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t\t[td]15[/td]\n\t[/tr]\n\t[tr]\n\t\t[td]VERTICAL[/td]\n\t\t[td]-15[/td]\n\t\t[td]-15[/td]\n\t\t[td]-15[/td]\n\t\t[td]-15[/td]\n\t[/tr]\n[/table]",
+        "sort_order": 2
+      },
+      {
+        "sectionid": "5440543",
+        "title": "Introduction",
+        "description_text": "As I said in the description the guide is made for centered crosshair on all the games. FOV doesn't matter that much since it's personal preference but increasing FOV does increase the \"depth\" for the weapons aswell, except for CE for some reason.\n\nAll the games will share similar adjustments to make everything consistent and the only thing that will differ is how much vertical offset that are needed. All the games and weapon groups will have the maximum depth and horizontal offsets possible.\n\nHow to change offsets: Settings->Gameplay\nUnder \"Game Settings\" choose the game and then choose \"Select\" to change weapon display offsets.\n\nHere are some reference images from CS: Source on how the viewmodels look and what I wanted to replicate in MCC.\n[previewimg=27842958;sizeThumb,floatLeft;20220613204824_1.jpg][/previewimg]\n[previewimg=27842959;sizeThumb,floatLeft;20220613204844_1.jpg][/previewimg]\n",
+        "sort_order": 1
+      }
+    ]
+  }
+}

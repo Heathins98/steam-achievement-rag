@@ -1,0 +1,84 @@
+{
+  "response": {
+    "sub_sections": [
+      {
+        "sectionid": "7422348",
+        "title": "Multiplayer",
+        "description_text": "[previewimg=38169167;sizeOriginal,floatLeft;HCE_PC_Manual_page-0013.jpg]https://steamuserimages-a.akamaihd.net/ugc/2501278490231999239/B327537532305F6996879A54B23E2A4CC9B6D7DF/?imw=256&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/previewimg] [previewimg=38169177;sizeOriginal,floatLeft;HCE_PC_Manual_page-0014.jpg][/previewimg]",
+        "sort_order": 10
+      },
+      {
+        "sectionid": "7422352",
+        "title": "Settings / Credits",
+        "description_text": "[previewimg=38169189;sizeOriginal,floatLeft;HCE_PC_Manual_page-0015.jpg][/previewimg]",
+        "sort_order": 11
+      },
+      {
+        "sectionid": "7422355",
+        "title": "Technical Support Options",
+        "description_text": "[previewimg=38169194;sizeOriginal,floatLeft;HCE_PC_Manual_page-0016.jpg][/previewimg]",
+        "sort_order": 12
+      },
+      {
+        "sectionid": "7422361",
+        "title": "\u3164",
+        "description_text": "[previewimg=38169241;sizeOriginal,floatLeft;EeRytG0UcAApsxO.png][/previewimg]",
+        "sort_order": 0
+      },
+      {
+        "sectionid": "7422345",
+        "title": "The Covenant",
+        "description_text": "[previewimg=38169157;sizeOriginal,floatLeft;HCE_PC_Manual_page-0012.jpg][/previewimg]",
+        "sort_order": 9
+      },
+      {
+        "sectionid": "7422341",
+        "title": "The Pillar of Autumn and Its Crew",
+        "description_text": "[previewimg=38169147;sizeOriginal,floatLeft;HCE_PC_Manual_page-0011.jpg][/previewimg]",
+        "sort_order": 8
+      },
+      {
+        "sectionid": "7422340",
+        "title": "Getting Around on Halo",
+        "description_text": "[previewimg=38169141;sizeOriginal,floatLeft;HCE_PC_Manual_page-0010.jpg][/previewimg]",
+        "sort_order": 7
+      },
+      {
+        "sectionid": "7422323",
+        "title": "Cover",
+        "description_text": "[previewimg=38169043;sizeOriginal,floatLeft;HCE_PC_Manual_page-0001.jpg][/previewimg]",
+        "sort_order": 1
+      },
+      {
+        "sectionid": "7422333",
+        "title": "Melee Fighting",
+        "description_text": "[previewimg=38169101;sizeOriginal,floatLeft;HCE_PC_Manual_page-0007.jpg][/previewimg]\n[previewimg=38169138;sizeOriginal,floatLeft;HCE_PC_Manual_page-0008.jpg][/previewimg]\n[previewimg=38169140;sizeOriginal,floatLeft;HCE_PC_Manual_page-0009.jpg][/previewimg]\n",
+        "sort_order": 6
+      },
+      {
+        "sectionid": "7422332",
+        "title": "Game Controls / Fighting the Enemy",
+        "description_text": "[previewimg=38169092;sizeOriginal,floatLeft;HCE_PC_Manual_page-0005.jpg][/previewimg]\n[previewimg=38169097;sizeOriginal,floatLeft;HCE_PC_Manual_page-0006.jpg][/previewimg]",
+        "sort_order": 5
+      },
+      {
+        "sectionid": "7422331",
+        "title": "Setup and Installation",
+        "description_text": "[previewimg=38169078;sizeOriginal,floatLeft;HCE_PC_Manual_page-0004.jpg][/previewimg]",
+        "sort_order": 4
+      },
+      {
+        "sectionid": "7422330",
+        "title": "The Story So Far",
+        "description_text": "[previewimg=38169068;sizeOriginal,floatLeft;HCE_PC_Manual_page-0003.jpg][/previewimg]",
+        "sort_order": 3
+      },
+      {
+        "sectionid": "7422326",
+        "title": "Safety Warning / Table of Contents",
+        "description_text": "[previewimg=38169051;sizeOriginal,floatLeft;HCE_PC_Manual_page-0002.jpg][/previewimg]",
+        "sort_order": 2
+      }
+    ]
+  }
+}

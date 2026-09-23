@@ -1,0 +1,24 @@
+{
+  "response": {
+    "sub_sections": [
+      {
+        "sectionid": "3706910",
+        "title": "Where To Access The Files",
+        "description_text": "[h1]This is the easy part![/h1]\n\n[b]Simply all you need to do to obtain these files is download the files you would like to replace located at the following link, and head on over to the next section of this guide to learn how to get them into your game![/b]\n\n[url=https://drive.google.com/drive/folders/1h92Kq1oCmJ035HDOlEhdExaoEoCqb3sn?usp=sharing]\nLink To The Files[/url]\n\n------------------------------------------------------------------------------------------------------\n\n[h1]At the request of a few people, I have also included a main menu replacement as well![/h1]\n[b]This menu includes all the menus from the MCC releases of Halo Reach through Season 8. It is a combination of all of these menus, with an awesome Halo music mashup created by the Youtube channel \"Riftley\". Here is the link to their original video - please go check them out: [url=https://www.youtube.com/watch?v=PSL1mvSEdAo]Halo | Ultimate Theme Mashup[/url][/b]",
+        "sort_order": 1
+      },
+      {
+        "sectionid": "3706899",
+        "title": "How To Do This",
+        "description_text": "[h1]Hopefully these steps are relatively straight forward - and you can get these operation with little to no hassle.[/h1]\n------------------------------------------------------------------------------------------------------\n[list]\n[*] 1. Navigate to your installation of MCC [Ex: C:>SteamLibrary>steamapps>common>Halo The Master Chief Collection]\n\n[*] 2. Navigate through MCC>Content>Movies\n\n[*] 3. Rename files so that they are kept but not the ones the game uses for each game desired [Ex: FMS_h1_bg --> FMS_h1_bg (Default)] \n\nNote: Should you ever want to revert, you would simply just have to rename these files to their original names and replace the downloaded files - as they were before they were altered.\n\n[*] 4. Drag in all of the .bk2 files desired from this archive.\n\n[*] 5. Launch MCC and under audio settings change the main menu music slider to zero.\n\n[*] 6. Enjoy the original main menus for each of the Halo games!\n[/list]\n\n[i]Thank you so much for reading this guide - I hope it was beneficial. If you liked this please feel free to favorite or rate this guide highly so that even more people can find it. It would be greatly appreciated![/i]",
+        "sort_order": 2
+      },
+      {
+        "sectionid": "3706894",
+        "title": "A Brief Explanation",
+        "description_text": "[h1]How/why is this possible?[/h1]\n---------------------------------------------------------------------------------------------------\nAfter much, much work I have gotten the original main menus for each of the 6 games in the MCC. In order do this I had to resize, convert, and edit recordings of the main menus. Following this I had to compile them into one easily accessible location. \n\nThe quality of these individual menus are not going to be 4k obviously, as they are older - and most of them are from the Xbox 360 era. However, I can ensure you that I did my absolute best to maintain the highest visual and audio quality I could for each of these menus. These include full video, as well as the music - just as they were in the original games.\n\nThis is a project that I really enjoyed doing and I am quite happy with this in my version of the MCC instead of the defaults that 343 provides. I wanted to share my work with the Halo community, because I am certain I am not the only one who wished for something like this.\n\n[b]*Update*[/b] MCC now allows for menu customization! Unfortunately you can't select the original menus of the titles - but now you should be able to replace your least favorite menu with one that is provided here.\n\n\n [b]Thank you, and I hope you enjoy![/b]\n\n[screenshot=2159583018;sizeOriginal,floatLeft;https://steamuserimages-a.akamaihd.net/ugc/1286291105824219536/5690F4C0A8AB19370BA850EBB5C4D569BA07FF9A/][/screenshot]\n\n[screenshot=2159583100;sizeOriginal,floatLeft;https://steamuserimages-a.akamaihd.net/ugc/1286291105824220151/088A7334D93605EE12616140309F17A3D611C6B2/][/screenshot]\n\n[screenshot=2159583176;sizeOriginal,floatLeft;https://steamuserimages-a.akamaihd.net/ugc/1286291105824220683/081D1D061AF1053EEED97AA14567E9E4A0905827/][/screenshot]\n\n[screenshot=2166959764;sizeOriginal,floatLeft;https://steamuserimages-a.akamaihd.net/ugc/1460806193108530472/E0D692F37E78E3852415B537F461137D3D8EAE19/][/screenshot]\n\n[screenshot=2289614744;sizeOriginal,floatLeft;https://steamuserimages-a.akamaihd.net/ugc/1664605351004482804/E44388844D1DF76E13EDE3FA287F922BE66576C7/][/screenshot]\n\n[screenshot=2289909910;sizeOriginal,floatLeft;https://steamuserimages-a.akamaihd.net/ugc/1664605421876771567/8A6F0D837C955035B3993841F1D5C97D172221A7/][/screenshot]",
+        "sort_order": 0
+      }
+    ]
+  }
+}

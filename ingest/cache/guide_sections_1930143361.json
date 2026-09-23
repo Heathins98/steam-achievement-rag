@@ -1,0 +1,12 @@
+{
+  "response": {
+    "sub_sections": [
+      {
+        "sectionid": "3313449",
+        "title": "Step 1 of 1",
+        "description_text": "Enable Loudness Equalization in Windows\n\nEnable 'loudness equalization' and lower the format quality down to it's lowest to (somewhat) fix the muddy sounds in Reach.\n\nRight Click the speaker icon in the task bar -> Open Volume Mixer -> Click the icon of your current speaker device -> Enhancements -> Scroll down a bit and enable 'Loudness Equalization'\n\nthen head to the Advanced tab and set 'Default Format'\n\nIsn't a perfect fix but it helps.",
+        "sort_order": 1
+      }
+    ]
+  }
+}

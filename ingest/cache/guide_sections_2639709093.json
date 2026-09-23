@@ -1,0 +1,96 @@
+{
+  "response": {
+    "sub_sections": [
+      {
+        "sectionid": "6295901",
+        "title": "[previewimg=32091673;sizeFull,inline;Halo3-min.png][/previewimg]",
+        "description_text": "",
+        "sort_order": 0
+      },
+      {
+        "sectionid": "4882836",
+        "title": "Multiplayer/Viewing Films",
+        "description_text": "[previewimg=25305481;sizeFull,floatLeft;12.PNG][/previewimg]\n[previewimg=25305482;sizeFull,floatLeft;13.PNG][/previewimg]\n[previewimg=25305483;sizeFull,floatLeft;14.PNG][/previewimg]",
+        "sort_order": 12
+      },
+      {
+        "sectionid": "4882835",
+        "title": "Basics",
+        "description_text": "[previewimg=25305480;sizeFull,floatLeft;11.PNG][/previewimg]",
+        "sort_order": 11
+      },
+      {
+        "sectionid": "4882834",
+        "title": "Vehicles",
+        "description_text": "[previewimg=25305466;sizeFull,floatLeft;10.PNG][/previewimg]",
+        "sort_order": 10
+      },
+      {
+        "sectionid": "4882833",
+        "title": "Equipment",
+        "description_text": "[previewimg=25305465;sizeFull,floatLeft;9.PNG][/previewimg]",
+        "sort_order": 9
+      },
+      {
+        "sectionid": "4882830",
+        "title": "Weapons",
+        "description_text": "[previewimg=25305464;sizeFull,floatLeft;8.PNG][/previewimg]",
+        "sort_order": 8
+      },
+      {
+        "sectionid": "4882828",
+        "title": "Covenant Species",
+        "description_text": "[previewimg=25305462;sizeFull,floatLeft;7.PNG][/previewimg]",
+        "sort_order": 7
+      },
+      {
+        "sectionid": "4882827",
+        "title": "Characters",
+        "description_text": "[previewimg=25305460;sizeFull,floatLeft;6.PNG][/previewimg]",
+        "sort_order": 6
+      },
+      {
+        "sectionid": "4882826",
+        "title": "Heads-Up Display (HUD)",
+        "description_text": "[previewimg=25305458;sizeFull,floatLeft;5.PNG][/previewimg]",
+        "sort_order": 5
+      },
+      {
+        "sectionid": "4882851",
+        "title": "Xbox Live/Credits",
+        "description_text": "[previewimg=25305485;sizeFull,floatLeft;16.PNG][/previewimg]\n[previewimg=25305486;sizeFull,floatLeft;17.PNG][/previewimg]\n[previewimg=25305487;sizeFull,floatLeft;18.PNG][/previewimg]",
+        "sort_order": 14
+      },
+      {
+        "sectionid": "4882850",
+        "title": "The Forge/Bungie.Net",
+        "description_text": "[previewimg=25305484;sizeFull,floatLeft;15.PNG][/previewimg]",
+        "sort_order": 13
+      },
+      {
+        "sectionid": "4882687",
+        "title": "Game Controls",
+        "description_text": "[previewimg=25305457;sizeFull,floatLeft;4.PNG][/previewimg]",
+        "sort_order": 4
+      },
+      {
+        "sectionid": "4882686",
+        "title": "The Story So Far",
+        "description_text": "[previewimg=25305451;sizeFull,floatLeft;3.PNG][/previewimg]",
+        "sort_order": 3
+      },
+      {
+        "sectionid": "4882685",
+        "title": "Table of Contents",
+        "description_text": "[previewimg=25305450;sizeFull,floatLeft;2.PNG][/previewimg]",
+        "sort_order": 2
+      },
+      {
+        "sectionid": "4882684",
+        "title": "Cover",
+        "description_text": "[previewimg=25305447;sizeFull,floatLeft;1.PNG][/previewimg]",
+        "sort_order": 1
+      }
+    ]
+  }
+}

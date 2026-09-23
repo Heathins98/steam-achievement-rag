@@ -1,0 +1,18 @@
+{
+  "response": {
+    "sub_sections": [
+      {
+        "sectionid": "7419690",
+        "title": "INSTALLATION TUTORIAL",
+        "description_text": "Head to this link:\nhttps://github.com/WinterSquire/AlphaRing/releases\n\nClick on the latest release and download. \nOnce you have the .dll file:\nGo to your steam installation of Halo The Master Chief Collection, Right Click and select Properties > Browse Local Files > MCC > Binaries > Win64 \n\nHere you will simply copy and paste the WTSAPI32.dll file and launch the game [b]WITH EAC DISABLED.[/b]\nOnce in the game menu, connect the controllers you will be using, hit F4 to open the menu, select the amount of players/controllers you will be playing with (Up to 4) and game on! It's that easy\n\nHope everyone enjoys reliving their split screen glory days <3",
+        "sort_order": 2
+      },
+      {
+        "sectionid": "7419689",
+        "title": "INTRODUCTION & ADVISORIES",
+        "description_text": "(THIS IS NOT MY MOD, I AM ONLY SHARING THIS. IF THIS IS REQUESTED TO BE TAKEN DOWN, I WILL DO SO)\n\nHoly Christ, I just recently found out about this mod and decided it needed to be shared to EVERYONE.\nI'm sure like most here, we grew up playing split screen campaign, firefight, custom games, etc. \n\nThis mod enables native split screen and actually works flawlessly in my experience. The only caveats are no custom controls (yet) and of course no online matchmaking because [u]THIS WILL ONLY WORK IF LAUNCHED WITH EASY ANTI-CHEAT DISABLED[/u]. \nOn the brightside, you can still play this online through invites with friends or custom servers, all while using split screen\n\nAnyways, onto the tutorial. \n",
+        "sort_order": 1
+      }
+    ]
+  }
+}

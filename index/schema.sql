@@ -19,7 +19,7 @@ CREATE TABLE guides (
 
 CREATE TABLE chunks (
     id             BIGSERIAL PRIMARY KEY,
-    guide_id       TEXT NOT NULL REFERENCES guides(published_file_id),
+    guide_id       TEXT NOT NULL REFERENCES guides(published_file_id) ON DELETE CASCADE,
     section_title  TEXT,
     ordinal        INTEGER NOT NULL,
     text           TEXT NOT NULL,
@@ -28,9 +28,14 @@ CREATE TABLE chunks (
     tsv            tsvector
 );
 
+-- ON DELETE CASCADE here (and above) matters for re-runnability: chunk.py
+-- deletes and reinserts a guide's chunks every time it runs, and a link
+-- in achievement_chunks pointing at a chunk that no longer exists isn't
+-- meaningful data worth protecting - it should disappear along with the
+-- chunk, not block the delete with a foreign key error.
 CREATE TABLE achievement_chunks (
-    achievement_id  TEXT NOT NULL REFERENCES achievements(api_name),
-    chunk_id        BIGINT NOT NULL REFERENCES chunks(id),
+    achievement_id  TEXT NOT NULL REFERENCES achievements(api_name) ON DELETE CASCADE,
+    chunk_id        BIGINT NOT NULL REFERENCES chunks(id) ON DELETE CASCADE,
     confidence      REAL,
     method          TEXT,
     PRIMARY KEY (achievement_id, chunk_id)

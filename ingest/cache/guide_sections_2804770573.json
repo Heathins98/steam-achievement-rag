@@ -1,0 +1,108 @@
+{
+  "response": {
+    "sub_sections": [
+      {
+        "sectionid": "5374224",
+        "title": "Back Cover",
+        "description_text": "[previewimg=27410642;sizeFull,floatLeft;25.PNG][/previewimg][previewimg=27410645;sizeFull,floatLeft;26.PNG][/previewimg]",
+        "sort_order": 16
+      },
+      {
+        "sectionid": "5374223",
+        "title": "Specializations",
+        "description_text": "[previewimg=27410638;sizeThumb,floatLeft;23.PNG][/previewimg][previewimg=27410640;sizeThumb,floatRight;24.PNG][/previewimg]",
+        "sort_order": 15
+      },
+      {
+        "sectionid": "5374222",
+        "title": "Armor Mods",
+        "description_text": "[previewimg=27410634;sizeFull,floatLeft;22.PNG][/previewimg]",
+        "sort_order": 14
+      },
+      {
+        "sectionid": "5374221",
+        "title": "Armor Abilities",
+        "description_text": "[previewimg=27410626;sizeFull,floatLeft;21.PNG][/previewimg]",
+        "sort_order": 13
+      },
+      {
+        "sectionid": "5374220",
+        "title": "Vehicles",
+        "description_text": "[previewimg=27410624;sizeFull,floatLeft;20.PNG][/previewimg]",
+        "sort_order": 12
+      },
+      {
+        "sectionid": "5374217",
+        "title": "Weapons",
+        "description_text": "[previewimg=27410621;sizeFull,floatLeft;19.PNG][/previewimg]",
+        "sort_order": 11
+      },
+      {
+        "sectionid": "5374215",
+        "title": "Spartan OPS",
+        "description_text": "[previewimg=27410620;sizeThumb,floatRight;18.PNG][previewimg=27410618;sizeThumb,floatLeft;17.PNG][/previewimg][/previewimg]",
+        "sort_order": 10
+      },
+      {
+        "sectionid": "5374214",
+        "title": "War Games",
+        "description_text": "[previewimg=27410614;sizeThumb,floatLeft;15.PNG][/previewimg][previewimg=27410615;sizeThumb,floatRight;16.PNG][/previewimg]",
+        "sort_order": 9
+      },
+      {
+        "sectionid": "5374213",
+        "title": "Spartan-IV",
+        "description_text": "[previewimg=27410610;sizeThumb,floatRight;14.PNG][previewimg=27410607;sizeThumb,floatLeft;13.PNG][/previewimg][/previewimg]",
+        "sort_order": 8
+      },
+      {
+        "sectionid": "5374212",
+        "title": "UNSC Infinity",
+        "description_text": "[previewimg=27410604;sizeThumb,floatLeft;11.PNG][/previewimg][previewimg=27410606;sizeThumb,floatRight;12.PNG][/previewimg]",
+        "sort_order": 7
+      },
+      {
+        "sectionid": "5374209",
+        "title": "The Prometheans",
+        "description_text": "[previewimg=27410601;sizeThumb,floatLeft;9.PNG][/previewimg][previewimg=27410603;sizeThumb,floatRight;10.PNG][/previewimg]",
+        "sort_order": 6
+      },
+      {
+        "sectionid": "5374208",
+        "title": "The Covenant",
+        "description_text": "[previewimg=27410595;sizeThumb,floatLeft;7.PNG][/previewimg][previewimg=27410598;sizeThumb,floatRight;8.PNG][/previewimg]",
+        "sort_order": 5
+      },
+      {
+        "sectionid": "5374207",
+        "title": "Welcome To Requiem",
+        "description_text": "[previewimg=27410589;sizeThumb,floatLeft;5.PNG][/previewimg][previewimg=27410590;sizeThumb,floatRight;6.PNG][/previewimg]",
+        "sort_order": 4
+      },
+      {
+        "sectionid": "5374203",
+        "title": "The Master Chief",
+        "description_text": "[previewimg=27410587;sizeThumb,floatLeft;3.PNG][/previewimg][previewimg=27410588;sizeThumb,floatRight;4.PNG][/previewimg]",
+        "sort_order": 3
+      },
+      {
+        "sectionid": "5374202",
+        "title": "Prologue",
+        "description_text": "[previewimg=27410586;sizeFull,floatLeft;2.PNG][/previewimg]",
+        "sort_order": 2
+      },
+      {
+        "sectionid": "5374201",
+        "title": "Cover",
+        "description_text": "[previewimg=27410584;sizeFull,floatLeft;1.PNG][/previewimg]",
+        "sort_order": 1
+      },
+      {
+        "sectionid": "6296445",
+        "title": "[previewimg=32094824;sizeFull,inline;Halo4.png][/previewimg]",
+        "description_text": "",
+        "sort_order": 0
+      }
+    ]
+  }
+}

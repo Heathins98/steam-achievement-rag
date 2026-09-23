@@ -1,0 +1,157 @@
+{
+  "response": {
+    "total": 560,
+    "publishedfiledetails": [
+      {
+        "result": 1,
+        "publishedfileid": "1927565268",
+        "vote_data": {
+          "score": 0.9464420080184937,
+          "votes_up": 1240,
+          "votes_down": 23
+        },
+        "language": 0
+      },
+      {
+        "result": 1,
+        "publishedfileid": "2804760079",
+        "vote_data": {
+          "score": 0.8031499981880188,
+          "votes_up": 154,
+          "votes_down": 0
+        },
+        "language": 0
+      },
+      {
+        "result": 1,
+        "publishedfileid": "2019051427",
+        "vote_data": {
+          "score": 0.8377580046653748,
+          "votes_up": 234,
+          "votes_down": 5
+        },
+        "language": 0
+      },
+      {
+        "result": 1,
+        "publishedfileid": "1928903309",
+        "vote_data": {
+          "score": 0.8791210055351257,
+          "votes_up": 350,
+          "votes_down": 5
+        },
+        "language": 0
+      },
+      {
+        "result": 1,
+        "publishedfileid": "3571809884",
+        "vote_data": {
+          "score": 0.5652170181274414,
+          "votes_up": 15,
+          "votes_down": 0
+        },
+        "language": 0
+      },
+      {
+        "result": 1,
+        "publishedfileid": "1927601428",
+        "vote_data": {
+          "score": 0.9256200194358826,
+          "votes_up": 622,
+          "votes_down": 4
+        },
+        "language": 0
+      },
+      {
+        "result": 1,
+        "publishedfileid": "1929571637",
+        "vote_data": {
+          "score": 0.9333329796791077,
+          "votes_up": 818,
+          "votes_down": 12
+        },
+        "language": 0
+      },
+      {
+        "result": 1,
+        "publishedfileid": "2076141494",
+        "vote_data": {
+          "score": 0.6106870174407959,
+          "votes_up": 30,
+          "votes_down": 1
+        },
+        "language": 0
+      },
+      {
+        "result": 1,
+        "publishedfileid": "2530689303",
+        "vote_data": {
+          "score": 0.5819669961929321,
+          "votes_up": 21,
+          "votes_down": 1
+        },
+        "language": 0
+      },
+      {
+        "result": 1,
+        "publishedfileid": "1930143361",
+        "vote_data": {
+          "score": 0.5238100290298462,
+          "votes_up": 5,
+          "votes_down": 0
+        },
+        "language": 0
+      },
+      {
+        "result": 1,
+        "publishedfileid": "1976340894",
+        "vote_data": {
+          "score": 0.5853660106658936,
+          "votes_up": 22,
+          "votes_down": 1
+        },
+        "language": 0
+      },
+      {
+        "result": 1,
+        "publishedfileid": "1929586957",
+        "vote_data": {
+          "score": 0.9381219744682312,
+          "votes_up": 799,
+          "votes_down": 6
+        },
+        "language": 0
+      },
+      {
+        "result": 1,
+        "publishedfileid": "1944689778",
+        "vote_data": {
+          "score": 0.5038170218467712,
+          "votes_up": 16,
+          "votes_down": 15
+        },
+        "language": 0
+      },
+      {
+        "result": 1,
+        "publishedfileid": "1966938911",
+        "vote_data": {
+          "score": 0.7282050251960754,
+          "votes_up": 92,
+          "votes_down": 3
+        },
+        "language": 0
+      },
+      {
+        "result": 1,
+        "publishedfileid": "1936564880",
+        "vote_data": {
+          "score": 0.5321099758148193,
+          "votes_up": 8,
+          "votes_down": 1
+        },
+        "language": 0
+      }
+    ]
+  }
+}
